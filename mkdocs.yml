@@ -35,7 +35,7 @@ nav:
       - Rich Picture: planejamento/rich-picture.md
   - Gravações:
     - Entregas: gravacoes\entregas\entregas.md
-    - Reuniões: gravacoes\reunioes\reunioes.md
+    - Reuniões e ATAS: gravacoes\reunioes\reunioes.md
 
 markdown_extensions:
   - pymdownx.details
