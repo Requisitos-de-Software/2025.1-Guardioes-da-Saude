@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Guardiões da Saúde - Grupo 4
 theme:
   name: material
   palette:
@@ -15,3 +15,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Equipe: planejamento/equipe.md
+      - Heatmap: planejamento/heatmap.md
+      - Lista de Apps Avaliados: planejamento/lista-de-apps-avaliados.md
+      - Termo de Uso: planejamento/termo-de-uso.md
+      - Ferramentas do Projeto: planejamento/ferramentas.md
+      - Rich Picture: planejamento/rich-picture.md
