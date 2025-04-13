@@ -31,6 +31,5 @@ As ferramentas utilizadas para facilitar a comunicação entre os membros da equ
 
 | Data       | Versão | Descrição                                 | Autor             | Revisor           |
 | :--------: | :----: | :----------:                              | :---------------: | :---------------: |
-| 13/04/2025 |  0.1   | Ferramentas Utilizadas                    | [Fábio Gabriel](https://github.com/fabinsz)| |
-
+| 13/04/2025 |  0.1   | Ferramentas Utilizadas                    | [@Fábio Gabriel](https://github.com/fabinsz)| [@Ana Joyce](https://github.com/anajoyceamorim)|
 
