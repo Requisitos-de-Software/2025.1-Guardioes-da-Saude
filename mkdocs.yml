@@ -36,3 +36,7 @@ nav:
 
 markdown_extensions:
   - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
