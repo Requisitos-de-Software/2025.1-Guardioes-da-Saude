@@ -26,6 +26,6 @@ As branches devem seguir o seguinte padrão:
 ## Histórico de Versões
 
 
-| Data       | Versão | Descrição                                 | Autor             |
-| :--------: | :----: | :----------:                              | :---------------: |
-| 13/04/2025 |  0.1   | Criação da política de branches           | [Ana Clara Borges](https://github.com/anabborges)|
+| Data       | Versão | Descrição                                 | Autor             | Revisor           |
+| :--------: | :----: | :----------:                              | :---------------: | :---------------: |
+| 13/04/2025 |  0.1   | Criação da política de branches           | [Ana Clara Borges](https://github.com/anabborges)| [Gabriela Alves](https://github.com/gaubiela)|
