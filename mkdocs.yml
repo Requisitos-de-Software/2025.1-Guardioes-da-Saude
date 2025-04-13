@@ -33,6 +33,9 @@ nav:
       - Termo de Uso: planejamento/termo-de-uso.md
       - Ferramentas do Projeto: planejamento/ferramentas.md
       - Rich Picture: planejamento/rich-picture.md
+  - Gravações:
+    - Entregas: gravacoes\entregas\entregas.md
+    - Reuniões: gravacoes\reunioes\reunioes.md
 
 markdown_extensions:
   - pymdownx.details
