@@ -34,8 +34,8 @@ nav:
       - Ferramentas do Projeto: planejamento/ferramentas.md
       - Rich Picture: planejamento/rich-picture.md
   - Gravações:
-    - Entregas: gravacoes\entregas\entregas.md
-    - Reuniões e ATAS: gravacoes\reunioes\reunioes.md
+    - Entregas: gravacoes/entregas/entregas.md
+    - Reuniões e ATAS: gravacoes/reunioes/reunioes.md
 
 markdown_extensions:
   - pymdownx.details
