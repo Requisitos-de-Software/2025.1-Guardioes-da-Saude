@@ -1,7 +1,7 @@
 ??? summary "Entrega 1 – Planejamento do Projeto" 
     **Data de entrega:** 13/04/2025
 
-    - Planejamento do Projeto
+    - [Planejamento do Projeto](https://youtu.be/8wXblafGnRg) (Responsável: Ana Clara)
     - Equipe
     - [Heatmap / Cronograma](https://youtu.be/IdS9U9hWxes) (Responsável: Gabriela)
     - lista de App avaliados
