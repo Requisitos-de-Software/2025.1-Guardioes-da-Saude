@@ -20,6 +20,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
 nav:
   - Planejamento:
