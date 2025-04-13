@@ -22,6 +22,7 @@ nav:
       - Equipe: planejamento/equipe.md
       - Políticas do Repositório: 
         - Política de Commits: planejamento/politicas_repositorio/politica_commits.md
+        - Política de Branches: planejamento/politicas_repositorio/politica_branches.md
       - Heatmap: planejamento/heatmap.md
       - Lista de Apps Avaliados: planejamento/lista-de-apps-avaliados.md
       - Termo de Uso: planejamento/termo-de-uso.md
