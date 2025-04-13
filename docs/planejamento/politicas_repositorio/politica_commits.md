@@ -30,7 +30,7 @@ Os commits devem seguir o seguinte padrão:
 
 *Exemplo de commit:*
 ```
-git commit -m "(#D02):memo:: adição da documentação da política de commits"
+git commit -m ":memo: (#D02): adição da documentação da política de commits"
 ```
 
 ## Histórico de Versões
