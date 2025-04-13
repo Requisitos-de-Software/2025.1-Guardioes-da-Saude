@@ -93,11 +93,9 @@
 
 
 
-| Data       | Versão | Descrição                                 | Autor             |
-| :--------: | :----: | :----------:                              | :---------------: |
-| 13/04/2025 |  0.1   | (#P04) Elaboração e definição do cronograma.| [`@Gabriela`](https://github.com/gaubiela) |
-
-
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
+| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
+| 13/04/2025 |  0.1   | (#P04) Elaboração e definição do cronograma. | [@Gabriela](https://github.com/gaubiela)   | [@AnaJoyce](https://github.com/anajoyceamorim) |
 
 # GRÁFICO DE GANTT
 
@@ -106,6 +104,6 @@
 </div>
 
 
-| Data       | Versão | Descrição                                 | Autor             |
-| :--------: | :----: | :----------:                              | :---------------: |
-| 13/04/2025 | 0.1    | (#P04) Incorporando Gráfico de Gantt de acordo com cronograma | [`@Gabriela`](https://github.com/gaubiela) |
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
+| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
+| 13/04/2025 |  0.1   | (#P04) Elaboração e definição do cronograma. | [@Gabriela](https://github.com/gaubiela)   | [@AnaJoyce](https://github.com/anajoyceamorim) |
