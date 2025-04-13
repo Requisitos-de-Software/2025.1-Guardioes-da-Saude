@@ -7,7 +7,7 @@
     - lista de App avaliados
     - App selecionado para o projeto
     - Cópia do Termo de Uso do aplicativo 
-    - Ferramentas do projeto 
+    - Ferramentas do projeto (https://youtu.be/rEsHdtk724o) (Responsável: Fabio)
     - Rich Picture
 
 
