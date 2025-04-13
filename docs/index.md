@@ -68,4 +68,4 @@ Desenvolvido pela Associação Brasileira de Profissionais de Epidemiologia de C
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 13/04/2025 |  1.0   | (#P01) Adição da home page| [@AnaJoyce](https://github.com/anajoyceamorim)   | [@Davi](https://github.com/daviRolvr) |
-| 13/04/2025 |  1.1   | (FIX) imagem | [@AnaJoyce](https://github.com/anajoyceamorim)   | [@](https://github.com/) |
+| 13/04/2025 |  1.1   | (FIX) imagem | [@AnaJoyce](https://github.com/anajoyceamorim)   | [@Davi](https://github.com/daviRolvr)  |
