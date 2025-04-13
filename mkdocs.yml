@@ -1,4 +1,9 @@
-site_name: Guardiões da Saúde - Grupo 4
+site_name: Guardiões da Saúde - Grupo 2
+site_author: Ana Borges, Ana Joyce, Davi, Fabio, Gabriela, Luiz e Mateus
+site_description: Site voltado para a documentação do Grupo 2 de Requisitos de Software
+repo_url: https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/
+repo_name: 2025.1-Guardioes-da-Saude
+
 theme:
   name: material
   palette:
