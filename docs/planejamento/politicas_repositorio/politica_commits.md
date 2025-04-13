@@ -6,7 +6,7 @@ Os commits devem seguir o seguinte padrão:
 
 ### Formato:
 ```
-(#código da tarefa)<tipo>: descrição
+<tipo> (#código da tarefa): descrição
 ```
 
 #### Código da tarefa:
