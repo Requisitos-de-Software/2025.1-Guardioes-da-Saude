@@ -15,3 +15,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+plugins:
+  - search
+  - table-reader

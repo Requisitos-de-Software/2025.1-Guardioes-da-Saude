@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+table-reader = mkdocs_table_reader_plugin.plugin:TableReaderPlugin
