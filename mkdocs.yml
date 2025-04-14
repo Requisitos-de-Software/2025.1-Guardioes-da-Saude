@@ -33,7 +33,8 @@ nav:
       - Termo de Uso: planejamento/termo-de-uso.md
       - Ferramentas do Projeto: planejamento/ferramentas.md
       - Rich Picture: planejamento/rich-picture.md
-      - Lista de Verificação: planejamento/lista-de-verificacao.md
+  - Verificação: 
+      - Lista de Verificação - Entrega 1: planejamento/lista-de-verificacao.md
   - Gravações:
     - Entregas: gravacoes/entregas/entregas.md
     - Reuniões e ATAS: gravacoes/reunioes/reunioes.md
