@@ -2,7 +2,7 @@
 
 O Rich Picture do aplicaitvo Guardiões da saúde tem como objetivo apresentar de forma clara e resumida as principais funcionalidades do aplicativo, ale pode ser visto logo em seguida:
 
-![Heatmap](../imgs/rich-picture.png)
+![Rich Picture](../imgs/rich-picture.png)
 
 # Lista de Verificação - Rich Picture
 
@@ -148,3 +148,6 @@ ajuda a distinguir o que está sob controle da equipe do que está fora dela, o 
 **Responsável:** Fábio, Davi, Luiz, Ana Joyce
 
 ---
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
+| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
+| 13/04/2025 |  1.0   | Rich Picture | [@Luiz](https://github.com/luizfaria1989)  | [@Ana Joyce](https://github.com/anajoyceamorim)  |
