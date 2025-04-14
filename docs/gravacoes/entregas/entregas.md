@@ -9,6 +9,7 @@
     - Cópia do Termo de Uso do aplicativo 
     - Ferramentas do projeto (https://youtu.be/rEsHdtk724o) (Responsável: Fabio)
     - Rich Picture
+    - Lista de verificação do Rich Picture (https://youtu.be/ZcvSD-F37ms) (Resposável: Luiz)
 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
