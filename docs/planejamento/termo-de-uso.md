@@ -18,3 +18,7 @@ Esta seção apresenta os principais documentos relacionados aos termos de uso, 
 
 - [Guardiões - Manual de Identidade Visual (PDF)](https://github.com/ProEpiDesenvolvimento/guardioes-app/blob/master/doc/Guardioes-ID-Visual.pdf)
 
+
+| Data       | Versão | Descrição                                 | Autor             | Revisor           |
+| :--------: | :----: | :----------:                              | :---------------: | :---------------: |
+| 13/04/2025 |  0.1   | Ferramentas Utilizadas                    | [@Fábio Gabriel](https://github.com/fabinsz)| [](https://github.com/)|
