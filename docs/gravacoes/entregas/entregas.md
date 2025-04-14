@@ -14,5 +14,5 @@
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 13/04/2025 |  1.0   | (#P01) Criação dos espaços necessários a divulgação das apresentações / inserção inicial | [@Gabriela](https://github.com/gaubiela)   | [@Davi](https://github.com/daviRolvr) |
- 13/04/2025 |  1.1   | Inserção do vídeo Termo de Uso, equipe e app selecionado | [@Ana Joyce](https://github.com/anajoyceamorim)   | [](https://github.com/) |
+ 13/04/2025 |  1.1   | Inserção do vídeo Termo de Uso, equipe e app selecionado | [@Ana Joyce](https://github.com/anajoyceamorim)   | [Fábio](https://github.com/fabinsz) |
 
