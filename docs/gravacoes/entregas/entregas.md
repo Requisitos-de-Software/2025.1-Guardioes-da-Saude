@@ -2,6 +2,7 @@
     **Data de entrega:** 13/04/2025
 
     - [Planejamento do Projeto](https://youtu.be/8wXblafGnRg) (Responsável: Ana Clara)
+    - [Escolha das tecnicas de Elicitação] (https://youtu.be/rqI6Uf9Rxzo) (Responsável: Davi Emanuel)
     - Equipe
     - [Heatmap / Cronograma](https://youtu.be/IdS9U9hWxes) (Responsável: Gabriela)
     - lista de App avaliados
@@ -14,3 +15,4 @@
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 13/04/2025 |  0.1   | (#P01) Criação dos espaços necessários a divulgação das apresentações / inserção inicial | [@Gabriela](https://github.com/gaubiela)   | [`@Davi`](https://github.com/daviRolvr) |
+
