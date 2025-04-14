@@ -9,6 +9,8 @@
     - [Termo de Uso do aplicativo](https://youtu.be/al9B93LI5uU) (Responsável: Ana Joyce) 
     - [Ferramentas do projeto](https://youtu.be/rEsHdtk724o) (Responsável: Fabio)  
     - Rich Picture
+    - App selecionado para o projeto
+    - Lista de verificação do Rich Picture (https://youtu.be/ZcvSD-F37ms) (Resposável: Luiz)
 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
