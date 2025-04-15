@@ -73,6 +73,7 @@ A metodologia consiste na utilização da lista de verificação, onde um ou mai
 ## Histórico de Versões
 Tabela que descreve o Histórico de Versões
 
-|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | verificação |[@Mateus](https://github.com/MVConsorte) | 13/04 |  [@Ana Joyce](https://github.com/anajoyceamorim)| 14/04|
+|     Versão       |     Descrição      |      Autor(es)                                                       | Data  |  Revisor(es)                                          | Data de revisão |
+| :--------------: | :-----------------:| :-------------------------------------------------------------------:| :---: | :----------------------------------------------------:| :-------------: |
+| 1.0              | verificação        | [@Mateus](https://github.com/MVConsorte)                              | 13/04 | [@Ana Joyce](https://github.com/anajoyceamorim)         | 14/04          |
+| 1.1              | atualização        | [@Gabriela](https://github.com/gaubiela)                              | 15/04 | [@Davi](https://github.com/daviRolvr)         | 14/04          |
