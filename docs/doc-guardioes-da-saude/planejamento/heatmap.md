@@ -4,7 +4,7 @@ O Heatmap de Disponibilidade apresenta, de forma visual e colorida, a quantidade
 
 Em virtude dos dados extraídos do heatmap, ficou definido que nossas reuniões de acompanhamento acontecerão todas as terças e quintas a partir das 20h. Essa decisão visa aproveitar os períodos de maior disponibilidade identificados, garantindo uma participação mais efetiva da equipe nas discussões e tomadas de decisão.
 
-![Heatmap](../images/guardioes-imgs/heatmap.png)
+![Heatmap](../../images/guardioes-imgs/heatmap.png)
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |

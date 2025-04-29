@@ -2,7 +2,7 @@
 
 O Rich Picture do aplicaitvo Guardiões da saúde tem como objetivo apresentar de forma clara e resumida as principais funcionalidades do aplicativo, ale pode ser visto logo em seguida:
 
-![Rich Picture](../imgs/rich-picture.png)
+[Rich Picture](../../images/guardioes-imgs/rich-picture.png)
 
 # Lista de Verificação - Rich Picture
 
