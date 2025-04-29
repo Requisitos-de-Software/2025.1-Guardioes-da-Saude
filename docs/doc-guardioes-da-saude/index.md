@@ -1,7 +1,7 @@
 ## Guardiões da Saúde
 
 <figure markdown="span">
-  ![Logo Guardiões](/imgs/guardioes.png){ width="300" }
+  ![Logo Guardiões](../images/guardioes-imgs/guardioes.png){ width="300" }
   <figcaption>Guardiões da Saúde</figcaption>
 </figure>
 
@@ -67,5 +67,5 @@ Desenvolvido pela Associação Brasileira de Profissionais de Epidemiologia de C
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 13/04/2025 |  0.1   | (#P01) Adição da equipe| [@AnaJoyce](https://github.com/anajoyceamorim)   | [@Davi](https://github.com/daviRolvr) |
+| 13/04/2025 |  1.0   | (#P01) Adição da home page| [@AnaJoyce](https://github.com/anajoyceamorim)   | [@Davi](https://github.com/daviRolvr) |
 | 13/04/2025 |  1.1   | (FIX) imagem | [@AnaJoyce](https://github.com/anajoyceamorim)   | [@Davi](https://github.com/daviRolvr)  |

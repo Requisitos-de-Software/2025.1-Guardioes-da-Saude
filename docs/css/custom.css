@@ -1,0 +1,22 @@
+/* Esconde o SVG do Material Icon */
+.md-header__button--scheme-toggle .md-icon {
+    color: transparent;
+    mask-image: none;
+  }
+  
+  /* Insere a sua imagem no lugar */
+  .md-header__button--scheme-toggle {
+    width: 36px;   /* ajuste ao tamanho do seu PNG/SVG */
+    height: 36px;
+    background: url("../doc-deepseek/deepseek.svg") no-repeat center;
+    background-size: contain;
+  }
+  
+  /* opcional: se precisar diferenciar dark/light, use data-md-color-scheme */
+  @media (prefers-color-scheme: dark) {
+    .md-header__button--scheme-toggle {
+      background: url("/doc-deepseek/deepseek.svg") no-repeat center;
+
+    }
+  }
+  
