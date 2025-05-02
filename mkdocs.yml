@@ -40,8 +40,9 @@ nav:
     - Lista de Apps Avaliados: 'planejamento/lista-de-apps-avaliados.md'
     - Termo de Uso:            'planejamento/termo-de-uso.md'
 
-  - Técnicas de Elicitação:
-    - Análise de Documentos: 'tecnicas-de-elicitacao/analise-documentos/analise-documentos.md'
+  - Elicitação de Requisitos:
+    - Técnicas de Elicitação:
+      - Análise de Documentos: 'elicitacao/tecnicas/analise-de-documentos.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
@@ -65,10 +66,6 @@ nav:
           - Lista de Verificação:    'doc-guardioes-da-saude/planejamento/lista-de-verificacao.md'
           - Rich Picture:            'doc-guardioes-da-saude/planejamento/rich-picture.md'
           - Termo de Uso:            'doc-guardioes-da-saude/planejamento/termo-de-uso.md'
-
-      - Técnicas de Elicitação:
-          - Roteiro de Entrevista:  'doc-guardioes-da-saude/tecnicas-de-elicitacao/entrevista/roteiro-de-entrevista.md'
-          - Termo de Consentimento:  'doc-guardioes-da-saude/tecnicas-de-elicitacao/entrevista/termo-de-consentimento.md'
 
 markdown_extensions:
   - pymdownx.details
