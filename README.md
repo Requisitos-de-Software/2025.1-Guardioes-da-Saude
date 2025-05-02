@@ -60,5 +60,5 @@ O Deepseek é uma plataforma de busca inteligente baseada em processamento de li
 
 | Data       | Versão | Descrição                                           | Autor                                        | Revisor                                         |
 | :--------: | :----: | :-------------------------------------------------- | :------------------------------------------: | :---------------------------------------------: |
-| 02/05/2025 |  1.0   | (#README01) atualização para o novo app (Deepseek)  | [@Ana Joyce](https://github.com/anajoyceamorim) | [@Nome](https://github.com/arroba)  |
+| 02/05/2025 |  1.0   | (#README01) atualização para o novo app (Deepseek)  | [@Ana Joyce](https://github.com/anajoyceamorim) | [@Gabriela](https://github.com/gaubiela)  |
 
