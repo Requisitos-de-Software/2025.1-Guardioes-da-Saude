@@ -1,13 +1,11 @@
 ## Introdução
-Este repositório será utilizado pelo grupo 2, da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, 
-Universidade de Brasília - Gama. O projeto irá tratar sobre o app do Guardiões da Saúde, utilizado na displina Vigilância Epidemiológica 
-Comunitária e Participativa oferecido pelo DEG. Todo o desenvolvimento do projeto será documentado nesse repositório.
+Aqui registramos nossa jornada na disciplina de Requisitos de Software — uma imersão prática nas metodologias e ferramentas que garantem que um produto atenda de fato às expectativas de quem o utiliza. Somos o Grupo 02, sob a orientação do Prof. André Barros de Sales (UnB – Gama), e aqui você acompanhará cada passo da nossa exploração do app Deepseek, onde aplicaremos técnicas e processos elucidados durante a disciplina.
 
-## Sobre o Guardiões da Saúde
-Desenvolvido pela Associação Brasileira de Profissionais de Epidemiologia de Campo – ProEpi, em parceria com a UnB. Funciona de 
-forma semelhante a um diário da saúde, onde o usuário registra como está se sentindo, o app foi uma importante ferramenta de acompanhamento
-durante a pandemia da Covid-19.  
-Link:<a href="https://fef.unb.br/index.php/noticias/101-aplicativo-guardioes-da-saude-oferece-4-creditos-aos-alunos-da-unb"> <h5>guardiõesdasaúde</h5> </a>
+![Logo Deepseek](https://requisitos-de-software.github.io/2025.1-Deepseek/images/deepseek-logo.svg)  
+Fonte: [Deepseek](https://github.com/your-org/deepseek)
+
+## Sobre o Deepseek
+O Deepseek é uma plataforma de busca inteligente baseada em processamento de linguagem natural e machine learning. Cada consulta alimenta um modelo que refina resultados, entregando respostas cada vez mais relevantes e personalizadas. Nosso trabalho de requisitos garantirá que o Deepseek continue evoluindo de forma alinhada às expectativas reais de seus usuários.
 
 # Grupo 02 - Requisitos de Software - 2025.1
 <center>
@@ -59,3 +57,8 @@ Link:<a href="https://fef.unb.br/index.php/noticias/101-aplicativo-guardioes-da-
     </tr>
 </table>
 </center>
+
+| Data       | Versão | Descrição                                           | Autor                                        | Revisor                                         |
+| :--------: | :----: | :-------------------------------------------------- | :------------------------------------------: | :---------------------------------------------: |
+| 02/05/2025 |  1.0   | (#README01) atualização para o novo app (Deepseek)  | [@Ana Joyce](https://github.com/anajoyceamorim) | [@Gabriela](https://github.com/gaubiela)  |
+
