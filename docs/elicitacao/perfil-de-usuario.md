@@ -1,5 +1,7 @@
 # Perfil de Usuário
+
 Com base nas técnicas de elicitação aplicadas (Questionário, Observação, Análise de Interface e Análise de Documentos), podemos traçar o seguinte perfil de usuário:
+
 ## 1. Identificação Básica
 
 **Quem são os usuários?**
@@ -28,6 +30,7 @@ Com base nas técnicas de elicitação aplicadas (Questionário, Observação, A
 - **9,1%** → Sabem se virar, mas não são especialistas
 
 **Conclusão:**
+
 - Maioria é de usuários técnicos, o que explica a demanda por funções avançadas (OCR, integrações com APIs, Markdown)
 - Minoria precisa de mais orientação (justifica a solicitação de tutoriais)
 
@@ -44,6 +47,7 @@ Com base nas técnicas de elicitação aplicadas (Questionário, Observação, A
 ## 5. Tarefas Primárias
 
 **O que os usuários fazem no DeepSeek?**
+
 1. Buscar informações (90% usam diariamente)
 2. Processar arquivos (PDF, DOCX, imagens com OCR)
 3. Manter conversas contextuais (52,6% querem memória entre diálogos)
@@ -65,6 +69,7 @@ Com base nas técnicas de elicitação aplicadas (Questionário, Observação, A
 ## 7. Priorização de Características-Chave
 
 **Critérios mais relevantes para o DeepSeek:**
+
 1. Velocidade e estabilidade (79% dos usuários citam resposta rápida como crítico)
 2. Segurança de dados (47% preocupados com privacidade)
 3. Usabilidade (63% valorizam design intuitivo)
@@ -75,6 +80,7 @@ Com base nas técnicas de elicitação aplicadas (Questionário, Observação, A
 ## 8. Validação Iterativa
 
 **Técnicas utilizadas para coletar dados:**
+
 - Questionário: Dados demográficos, requisitos funcionais e não funcionais
 - Observação: Confirmação de features já implementadas (ex.: copiar respostas)
 - Análise de Interface: Verificação de funcionalidades como upload de arquivos
@@ -86,20 +92,23 @@ Com base nas técnicas de elicitação aplicadas (Questionário, Observação, A
 
 **Perfil do Usuário Típico do DeepSeek:**
 
-> *"Jovem adulto (18-34 anos) com formação superior, predominantemente da área de tecnologia ou acadêmica. Possui alta proficiência tecnológica e utiliza o aplicativo diariamente como ferramenta produtiva para:*
-> - *Pesquisas rápidas e precisas*
-> - *Processamento avançado de documentos (PDF, DOCX, imagens com OCR)*
-> - *Resolução de problemas complexos com apoio de IA*
+> **Jovem adulto (18-34 anos) com formação superior**, predominantemente da área de tecnologia ou acadêmica. Além disso, possui alta proficiência tecnológica e utiliza o aplicativo diariamente como ferramenta produtiva para:
+> 
+> - Pesquisas rápidas e precisas  
+> - Processamento avançado de documentos (PDF, DOCX, imagens com OCR)  
+> - Resolução de problemas complexos com apoio de IA  
 >
-> *Valoriza especialmente:*
-> - *Desempenho ágil (tempos de resposta curtos)*
-> - *Proteção rigorosa de dados*
-> - *Capacidade de integração com ecossistema de produtividade*
+> **Valoriza especialmente:**  
+> 
+> - Desempenho ágil (tempos de resposta curtos)  
+> - Proteção rigorosa de dados  
+> - Capacidade de integração com ecossistema de produtividade  
 >
-> *Principais pontos de insatisfação:*
-> - *Curva de aprendizado acentuada (falta de tutoriais intuitivos)*
-> - *Inconsistências pontuais na estabilidade do sistema*
-> - *Limitações em funcionalidades colaborativas"*
+> **Principais pontos de insatisfação:**  
+> 
+> - Curva de aprendizado acentuada (falta de tutoriais intuitivos)  
+> - Inconsistências pontuais na estabilidade do sistema  
+
 
 ## Bibliografia
 
@@ -113,4 +122,4 @@ p. 165 - 167.
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 03/05/2025 |  0.1   | (#P01) Definição do Perfil de Usuário.| [@Fabio](https://github.com/fabinsz)   | []() |
+| 03/05/2025 |  0.1   | (#P01) Definição do Perfil de Usuário.| [@Fabio](https://github.com/fabinsz)   | [@Mateus](https://github.com/MVConsorte) |
