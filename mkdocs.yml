@@ -42,6 +42,9 @@ nav:
 
   - Técnicas de Elicitação:
     - Pesquisa/Questionário: 'elicitacao/questionario.md'
+  
+  - Técnicas de Priorização:
+    - MoSCoW: 'priorizacao/MoSCow.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
