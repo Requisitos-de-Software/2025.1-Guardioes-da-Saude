@@ -29,10 +29,14 @@ O aplicativo Meu INSS oferece uma série de funcionalidades que facilitam o aces
 Apesar da relevância da proposta, o app não foi selecionado, pois outro grupo já havia escolhido uma solução com funcionalidades semelhantes.
 
 ## Guardiões da Saúde
-Funciona de forma semelhante a um diário da saúde, onde o usuário registra como está se sentindo, o app foi uma importante ferramenta de acompanhamento durante a pandemia da Covid-19.
+Funciona de forma semelhante a um diário da saúde, onde o usuário registra como está se sentindo, o app foi uma importante ferramenta de acompanhamento durante a pandemia da Covid-19. Inicialmente foi o projeto escolhido para a disciplina mas posteriorermente foi substituído. Ainda há alguns artefatos criados dentro do repositório.
+
+## DeepSeek
+O DeepSeek Chat é um assistente de Inteligência Artificial (IA) capaz de responder perguntas, gerar textos, auxiliar em programação, traduzir textos, entre outros. Ele foi criado pela empresa de IA DeepSeek.
 
 Foi escolhido para ser utilizado na disciplina.
 
 | Data       | Versão | Descrição                                 | Autor             | Revisor          |
 | :--------: | :----: | :----------:                              | :---------------: | :---------------:|
-| 13/04/2025 |  0.1   | Criação da política de commits           | [Ana Clara Borges](https://github.com/anabborges)| [Ana Joyce Amorim](https://github.com/anajoyceamorim)|
+| 13/04/2025 |  0.1   | Criação da documentação de aplicativos analisados          | [Ana Clara Borges](https://github.com/anabborges)| [Ana Joyce Amorim](https://github.com/anajoyceamorim)|
+| 04/05/2025 |  0.2   | Adição do DeepSeek na lista de aplicativos analisados           | [Ana Clara Borges](https://github.com/anabborges)| |
