@@ -42,6 +42,7 @@ nav:
 
   - Técnicas de Elicitação:
     - Pesquisa/Questionário: 'elicitacao/questionario.md'
+    - Perfil de Usuário: 'elicitacao/perfil-de-usuario.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
