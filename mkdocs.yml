@@ -56,6 +56,9 @@ nav:
     - MoSCoW: 'priorizacao/MoSCow.md'
     - Three Level Scale : 'priorizacao/three-level-scale.md'
 
+  - Verificação:
+    - Segunda Entrega: 'verificacao/segunda-entrega.md'
+
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
       
