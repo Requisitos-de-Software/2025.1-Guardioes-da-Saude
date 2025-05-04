@@ -52,6 +52,7 @@ nav:
     - Análise de Interface: 'elicitacao/analise-de-interface.md'
 
   - Técnicas de Priorização:
+    - MoSCoW: 'priorizacao/MoSCow.md'
     - Three Level Scale : 'priorizacao/three-level-scale.md'
 
   - Projeto Obsoleto:
