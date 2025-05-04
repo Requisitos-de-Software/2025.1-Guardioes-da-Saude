@@ -67,4 +67,4 @@ RNF09: Em caso de falha, deve retornar mensagens de erro claras.
 
 | Data       | Versão | Descrição                                 | Autor             | Revisor          |
 | :--------: | :----: | :----------:                              | :---------------: | :---------------:|
-| 04/05/2025 |  1.0   | Adição da Análise de Interface            | [Ana Joyce](https://github.com/anajoyceamorim)| [Nome](https://github.com/arroba)|
+| 04/05/2025 |  1.0   | Adição da Análise de Interface            | [Ana Joyce](https://github.com/anajoyceamorim)| [Ana Borges](https://github.com/anabborges)|
