@@ -43,6 +43,9 @@ nav:
   - Técnicas de Elicitação:
     - Pesquisa/Questionário: 'elicitacao/questionario.md'
 
+  - Técnicas de Priorização:
+    - Three Level Scale : 'priorizacao/three-level-scale.md'
+
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
       
