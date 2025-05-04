@@ -35,11 +35,11 @@ O primeiro documento a ser analisado é a página do aplicativo DeepSeek na loja
  
 Além disso, é possível ver imagens que mostram as principais funcionalidades da versão mobile do DeepSeek.
 
-![Figura 1: Tela do aplicativo DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-1.jpg)
+![Figura 1: Tela do aplicativo DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-1.jpg)
 
 Nas imagens do aplicativo é possível ver como é a interface do DeepSeek mobile e exemplos de prompts que ele é capaz de responder. Além disso, nota se que app está sob as categorias de produtividade, ferramentas e playground de inteligência artificial.
 
-![Figura 2: Imagem 1 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-2.jpg)
+![Figura 2: Imagem 1 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-2.jpg)
 
 A primeira delas, traz um breve resumo com as principais funcionalidades, sendo elas:
 1. Leitura de arquivos;
@@ -48,23 +48,23 @@ A primeira delas, traz um breve resumo com as principais funcionalidades, sendo 
 4. Pensamento profundo.
 Também é possível ver o layout do aplicativo no fundo.
 
-![Figura 3: Imagem 2 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-3.jpg)
+![Figura 3: Imagem 2 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-3.jpg)
 
 A segunda imagem busca mostrar um prompt comum, em que o usuário pede para a IA planejar uma viagem de Londres para Cambridge. Em destaque é possível ver que a principal vantagem retratada da imagem são as respostas “instantâneas” do modelo para qualquer pergunta.
 
-![Figura 4: Imagem 3 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-4.jpg)
+![Figura 4: Imagem 3 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-4.jpg)
 
 A terceira imagem mostra o usuário utilizando a função de pesquisa do aplicativo, em que a IA faz uma pesquisa na web em busca de conteúdos semelhantes à pergunta feita pelo usuário. 
 
-![Figura 5: Imagem 4 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-5.jpg)
+![Figura 5: Imagem 4 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-5.jpg)
 
 Já na quarta imagem é possível que a função DeepThink está ativada, em que a IA leva um tempo maior para processar a pergunta e responder o usuário. Nesse caso ela é utilizada para um problema de matemática, mas também pode ser utilizada para diferentes problemas. 
 
-![Figura 6: Imagem 5 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-6.jpg)
+![Figura 6: Imagem 5 de apresentação do DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-6.jpg)
 
 Por fim, na quinta e última imagem do app DeepSeek na PlayStore, é possível ver a funcionalidade de leitura de documentos do DeepSeek. Neste caso a IA lê o PDF e responde a uma pergunta relacionada ao que está escrito nele. Nesta situação não fica claro quais são as limitações da IA com relação a leitura de documentos, se ela é capaz de processar apenas documentos PDF ou outros tipos também.
 
-![Figura 7: Descrição do app DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../../images/play-store-deepseek/figura-7.jpg)
+![Figura 7: Descrição do app DeepSeek na Play Store. Fonte: Play Store: DeepSeek](../images/play-store-deepseek/figura-7.jpg)
 
 Por fim, é possível ler a descrição do aplicativo. Nela fica claro que o modelo utilizado para o aplicativo é o DeepSeek-V3, que foi alimentado por 600 bilhões de parâmetros. O texto também foca no fato do aplicativo ser gratuito para os usuários além de destacar os contatos com a empresa.
 
@@ -97,27 +97,27 @@ Outro ponto que deve-se levar em consideração é a análise de arquivos, em mo
 
 O próximo documento a ser analisado é o site de apresentação do DeepSeek, ele apresenta os conteúdos de forma semelhante a loja de aplicativos. 
 
-![Figura 8: Captura de tela 1 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-8.jpg)
+![Figura 8: Captura de tela 1 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-8.jpg)
 
 Nele é possível ver que o DeepSeek também está disponível para dispositivos IOS além de ressaltar que o modelo utilizado no app é o DeepSeek-V3.
 
-![Figura 9: Captura de tela 2 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-9.jpg)
+![Figura 9: Captura de tela 2 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-9.jpg)
 
 Logo em seguida, o site destaca as funções chave do aplicativo, sendo elas: login fácil com e-mail/conta do google/Apple ID, histórico do chat sincronizado entre plataformas, modos de pesquisa na web e pensamento profundo, upload de arquivos e extração de texto.
 
-![Figura 10: Captura de tela 3 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-10.jpg)
+![Figura 10: Captura de tela 3 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-10.jpg)
 
 Depois, ele passa a utilizar as mesmas imagens presentes da Play Store para destacar as funcionalidades do aplicativo
 
-![Figura 11: Captura de tela 4 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-11.jpg)
+![Figura 11: Captura de tela 4 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-11.jpg)
 
-![Figura 12: Captura de tela 5 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-12.jpg)
+![Figura 12: Captura de tela 5 da API do DeepSeek. Fonte: DeepSeek.com.](.../images/api-deepseek/figura-12.jpg)
 
-![Figura 13: Captura de tela 6 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-13.jpg)
+![Figura 13: Captura de tela 6 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-13.jpg)
 
-![Figura 14: Captura de tela 7 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-14.jpg)
+![Figura 14: Captura de tela 7 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-14.jpg)
 
-![Figura 15: Captura de tela 8 da API do DeepSeek. Fonte: DeepSeek.com.](../../images/api-deepseek/figura-15.jpg)
+![Figura 15: Captura de tela 8 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-15.jpg)
 
 Por fim, o site destaca informações importantes do uso do aplicativo, sendo ele 100% gratuito para uso, sem propagandas e sem compras no app. Depois, é ressaltado a importância de fazer o download do aplicativo apenas de fontes conhecidas.
 
@@ -210,4 +210,6 @@ Além disso, pode-se encontrar características do perfil de usuário do app Dee
 
 <https://docs.google.com/document/d/11YFLgDrjwQGwquQmtuM5PnXQ0yMlqD_vVsqpfcJqIz0/edit?usp=sharing>
 
-| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     || :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: || 02/05/2025 |  0.1   | (#A01) Documentação referente a aplicação da técnica de análise de documentos.| [@Luiz](https://github.com/luizfaria1989)  |  |
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
+| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
+| 02/05/2025 |  0.1   | (#A01) Documentação referente a aplicação da técnica de análise de documentos. | [@Luiz](https://github.com/luizfaria1989)   |  |
