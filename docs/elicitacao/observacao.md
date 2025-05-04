@@ -16,7 +16,7 @@ Gravação da observação: [Observação Alexia](https://youtu.be/qE3cUEjGY9k)
 
 Mateus Vieira, estudante de Engenhariade Software, mostrou a realização de duas tarefas que ele já fez em plataformas como o DeepSeek. Essa observação foi feita de forma passiva, ou seja, a observadora não interferiu no processo. Primeiro, ele pediu para a IA gerar um email de pedido de férias em inglês para o seu trabalho, mandando informações como período de férias e pessoa para a qual seria enviado o email. Após isso, por ser um entusiasta por cubos mágicos, Mateus usou a IA para saber mais sobre os algoritmos necessários para montar um cubo mágico.
 
-Gravação da observação: 
+Gravação da observação: [Observação Mateus Vieira](https://youtu.be/0VLm3_j8yUI)
 
 ## Requisitos Elicitados
 
