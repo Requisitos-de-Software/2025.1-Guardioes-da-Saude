@@ -53,6 +53,7 @@ nav:
 
   - Técnicas de Elicitação:
     - Requisitos Elicitados: 'elicitacao/requisitos-gerais.md'
+    - Análise de Documentos: 'elicitacao/analise-de-documentos.md'
     - Pesquisa/Questionário: 'elicitacao/questionario.md'
     - Observação: 'elicitacao/observacao.md'
     - Perfil de Usuário: 'elicitacao/perfil-de-usuario.md'
@@ -61,6 +62,7 @@ nav:
   - Técnicas de Priorização:
     - MoSCoW: 'priorizacao/MoSCow.md'
     - Three Level Scale : 'priorizacao/three-level-scale.md'
+    - In-or-Out: 'priorizacao/In-or-Out.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
@@ -84,10 +86,6 @@ nav:
           - Lista de Verificação:    'doc-guardioes-da-saude/planejamento/lista-de-verificacao.md'
           - Rich Picture:            'doc-guardioes-da-saude/planejamento/rich-picture.md'
           - Termo de Uso:            'doc-guardioes-da-saude/planejamento/termo-de-uso.md'
-
-      - Técnicas de Elicitação:
-          - Roteiro de Entrevista:  'doc-guardioes-da-saude/tecnicas-de-elicitacao/entrevista/roteiro-de-entrevista.md'
-          - Termo de Consentimento:  'doc-guardioes-da-saude/tecnicas-de-elicitacao/entrevista/termo-de-consentimento.md'
 
 markdown_extensions:
   - pymdownx.details
