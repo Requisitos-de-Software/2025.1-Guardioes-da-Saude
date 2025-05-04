@@ -55,6 +55,7 @@ nav:
   - Técnicas de Priorização:
     - MoSCoW: 'priorizacao/MoSCow.md'
     - Three Level Scale : 'priorizacao/three-level-scale.md'
+    - In-or-Out: 'priorizacao/In-or-Out.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
