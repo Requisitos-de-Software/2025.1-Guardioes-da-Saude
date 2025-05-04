@@ -111,7 +111,7 @@ Depois, ele passa a utilizar as mesmas imagens presentes da Play Store para dest
 
 ![Figura 11: Captura de tela 4 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-11.jpg)
 
-![Figura 12: Captura de tela 5 da API do DeepSeek. Fonte: DeepSeek.com.](.../images/api-deepseek/figura-12.jpg)
+![Figura 12: Captura de tela 5 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-12.jpg)
 
 ![Figura 13: Captura de tela 6 da API do DeepSeek. Fonte: DeepSeek.com.](../images/api-deepseek/figura-13.jpg)
 
