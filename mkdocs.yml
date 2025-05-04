@@ -40,9 +40,8 @@ nav:
     - Lista de Apps Avaliados: 'planejamento/lista-de-apps-avaliados.md'
     - Termo de Uso:            'planejamento/termo-de-uso.md'
 
-  - Elicitação de Requisitos:
-    - Técnicas de Elicitação:
-      - Análise de Documentos: 'elicitacao/tecnicas/analise-de-documentos.md'
+  - Técnicas de Elicitação:
+    - Análise de Documentos: 'elicitacao/analise-de-documentos.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
