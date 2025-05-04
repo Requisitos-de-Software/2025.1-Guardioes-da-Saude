@@ -42,6 +42,7 @@ nav:
 
   - Técnicas de Elicitação:
     - Análise de Documentos: 'elicitacao/analise-de-documentos.md'
+    - Pesquisa/Questionário: 'elicitacao/questionario.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
