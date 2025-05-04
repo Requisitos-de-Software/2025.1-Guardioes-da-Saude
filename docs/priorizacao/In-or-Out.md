@@ -87,7 +87,4 @@ A técnica de priorização foi aplicada com a participação voluntária de tr�
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 03/05/2025 |  0.1   | (#IO01) Resultado da técnica In or Out| [@Fabio](https://github.com/fabinsz)   | []() |
-
-
-
+| 03/05/2025 |  0.1   | (#IO01) Resultado da técnica In or Out| [@Fabio](https://github.com/fabinsz)   | [@Ana Joyce](https://github.com/anajoyceamorim) |
