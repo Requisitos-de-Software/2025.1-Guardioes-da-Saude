@@ -300,6 +300,10 @@ Com base na técnica de priorização de requisitos foram capaz de classificar o
 
 1. WIEGERS, K; BEATTY, J. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
+# Link para o documento em versão PDF
+
+https://docs.google.com/document/d/1Xos-q7mQ_vuDQqeCBLC7N5xdxEBLVYF27pExJdWrvOg/edit?usp=sharing
+
 
 
   
