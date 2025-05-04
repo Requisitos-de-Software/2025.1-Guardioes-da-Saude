@@ -51,4 +51,4 @@ Gravação da observação: [Observação Mateus Vieira](https://youtu.be/0VLm3_
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 04/05/2025 |  0.1   | (#O01) Documentação referente a técnica de observação.| [Ana Borges](https://github.com/anabborges)   |  |
+| 04/05/2025 |  0.1   | (#O01) Documentação referente a técnica de observação.| [Ana Borges](https://github.com/anabborges)   | [Ana Joyce](https://github.com/anajoyceamorim) |
