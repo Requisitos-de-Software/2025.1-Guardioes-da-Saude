@@ -4,7 +4,7 @@ A técnica de observação consiste em observar um usuário da sistema utilizand
 
 ## Aplicação
 
-Para aplicarmos a observação, foram escolhidos dois usuários do sistema. Antes da observação foi explicado o que seria feito e o objetivo disso, contextualizando a disciplina e o aplicativo escolhido pelo grupo.
+Para aplicarmos a observação, foram escolhidos dois usuários do sistema. Antes da observação foi explicado o que seria feito e o objetivo disso, contextualizando a disciplina e o aplicativo escolhido pelo grupo. A partir dessa técnica, conseguiríamos entender quais são as funcionalidades que os usuários mais utilizam e de que forma as utilizam.
 
 ### Primeira observação
 
