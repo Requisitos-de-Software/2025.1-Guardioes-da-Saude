@@ -26,6 +26,12 @@ theme:
 
 nav:
   - Visão Geral: index.md
+
+  - Gravações:
+    - Reuniões:
+      - ATA 24-04-2025: 'gravacoes/reunioes/ata-dia-24-04-2025.md'
+      - ATA 29-04-2025: 'gravacoes/reunioes/ata-dia-29-04-2025.md'
+      - ATA 01-05-2025: 'gravacoes/reunioes/ata-dia-01-05-2025.md'
   
   - Pré-Rastreabilidade:
     - Rich-Picture: 'pre-rastreabilidade/rich-picture.md' 
@@ -42,9 +48,12 @@ nav:
 
   - Técnicas de Elicitação:
     - Pesquisa/Questionário: 'elicitacao/questionario.md'
-  
+    - Perfil de Usuário: 'elicitacao/perfil-de-usuario.md'
+    - Análise de Interface: 'elicitacao/analise-de-interface.md'
+
   - Técnicas de Priorização:
     - MoSCoW: 'priorizacao/MoSCow.md'
+    - Three Level Scale : 'priorizacao/three-level-scale.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
