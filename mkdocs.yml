@@ -26,15 +26,16 @@ theme:
 
 nav:
   - Visão Geral: index.md
-
-  - Gravações:
-    - Reuniões:
-      - ATA 24-04-2025: 'gravacoes/reunioes/ata-dia-24-04-2025.md'
-      - ATA 29-04-2025: 'gravacoes/reunioes/ata-dia-29-04-2025.md'
-      - ATA 01-05-2025: 'gravacoes/reunioes/ata-dia-01-05-2025.md'
   
-  - Pré-Rastreabilidade:
-    - Rich-Picture: 'pre-rastreabilidade/rich-picture.md' 
+  - Gravações:
+    - Entregas: 'gravacoes/entregas/grav-entrega.md'
+    - Reuniões: 'gravacoes/reunioes/grav-reunioes.md'
+    - ATA 24-04-2025: 'gravacoes/reunioes/ata-dia-24-04-2025.md'
+    - ATA 29-04-2025: 'gravacoes/reunioes/ata-dia-29-04-2025.md'
+    - ATA 01-05-2025: 'gravacoes/reunioes/ata-dia-01-05-2025.md'
+    
+  # - Pré-Rastreabilidade:
+  #   - Rich-Picture: 'pre-rastreabilidade/rich-picture.md' 
   
   - Planejamento:
     - Políticas do Repositório:
@@ -46,10 +47,6 @@ nav:
     - Heatmap:                 'planejamento/heatmap.md'
     - Lista de Apps Avaliados: 'planejamento/lista-de-apps-avaliados.md'
     - Termo de Uso:            'planejamento/termo-de-uso.md'
-
-  - Gravações:
-    - Entregas: 'gravacoes/entregas/grav-entrega.md'
-    - Reuniões: 'gravacoes/reunioes/grav-reunioes.md'
 
   - Técnicas de Elicitação:
     - Requisitos Elicitados: 'elicitacao/requisitos-gerais.md'
