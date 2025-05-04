@@ -20,7 +20,16 @@ A intenção foi contar com a participação de diferentes usuários para obter 
 
 
 ##  MoSCoW
- A seguir, apresenta-se a priorização dos requisitos elicitados. Cada linha da tabela reúne o identificador único do requisito (ID), sua classificação como funcional ou não funcional, a descrição detalhada do requisito, a descrição resumida do requisito, o status de implementação, a sua prioridade de acordo com a execução da técnica e o seu rastreamento. Essa visão estruturada permite acompanhar de forma clara e organizada a priorização de cada requisito e identificar as prioridades dos stakeholders e os requistos que agregam mais valor e menor custo ao sistema.
+ A seguir, apresenta-se _(Figura 10)_ a priorização dos requisitos elicitados. Cada linha da tabela reúne o identificador único do requisito (ID), sua classificação como funcional ou não funcional, a descrição detalhada do requisito, a descrição resumida do requisito, o status de implementação, a sua prioridade de acordo com a execução da técnica e o seu rastreamento. Essa visão estruturada permite acompanhar de forma clara e organizada a priorização de cada requisito e identificar as prioridades dos stakeholders e os requistos que agregam mais valor e menor custo ao sistema.
+
+<figure>
+  <img src="../../images/moscow.drawio.svg" alt="Fluxo do questionário DeepSeek" />
+  <figcaption>Figura 10. Ilustração baseada na aplicação da técnica moscow.</figcaption>
+  <div align="center">
+    Autor: <a href="https://github.com/gaubiela">@Gabriela</a>
+  </div>
+</figure>
+
 ??? summary "TABELA 1/ MoSCoW"
 
     | ID    | Categoria     | Descrição final                                                                                                                                                                                                        | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                         | Status                    | Prioridade   | Rastreamento                            |
@@ -100,10 +109,10 @@ Durante o desenvolvimento do projeto, a principal dificuldade enfrentada foi a l
 
 | Data       |Descrição                                 | Autor                                      | Revisor                                     
 | :--------: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 03/05/2025 | Técnica de elicitação MoSCow| [@Davi](https://github.com/daviRolvr)   | [@Ana borges](https://github.com/) |
+| 03/05/2025 | Técnica de elicitação MoSCow| [@Davi](https://github.com/daviRolvr)   | [@Gabriela](https://github.com/gaubiela) |
 
 ## Gravação
 
 | Data       |Descrição                                 | Link                                      | Autor | Revisor 
 | :--------: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |:----------------------------------------: |
-| 03/05/2025 | Gravacão Execução Técnica MoSCoW| [MoSCoW](https://drive.google.com/file/d/1oE7cuhYpA9E0eMOmul43CZhOh5QkjI45/view?usp=sharing )   | [@Davi](https://github.com/daviRolvr) | [@Ana borges](https://github.com/)|
+| 03/05/2025 | Gravacão Execução Técnica MoSCoW| [MoSCoW](https://drive.google.com/file/d/1oE7cuhYpA9E0eMOmul43CZhOh5QkjI45/view?usp=sharing )   | [@Davi](https://github.com/daviRolvr) | [@Gabriela](https://github.com/gaubiela)|
