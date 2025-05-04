@@ -208,8 +208,9 @@ Além disso, pode-se encontrar características do perfil de usuário do app Dee
 
 ## Link do PDF do relatório técnico do DeepSeek
 
-<https://docs.google.com/document/d/11YFLgDrjwQGwquQmtuM5PnXQ0yMlqD_vVsqpfcJqIz0/edit?usp=sharing>
+<https://docs.google.com/document/d/11YFLgDrjwQGwquQmtuM5PnXQ0yMlqD_vVsqpfcJqIz0/edit?usp=sharing>  
 
-| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
-| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 02/05/2025 |  0.1   | (#A01) Documentação referente a aplicação da técnica de análise de documentos. | [@Luiz](https://github.com/luizfaria1989)   |  |
+| Data       | Versão | Descrição                                                         | Autor                                            | Revisor                                        |
+|------------|--------|-------------------------------------------------------------------|--------------------------------------------------|------------------------------------------------|
+| 02/05/2025 | 0.1    | (#A01) Documentação referente à aplicação da técnica de análise de documentos. | [@Luiz](https://github.com/luizfaria1989)        | [@Ana Joyce](https://github.com/anajoyceamorim) |
+
