@@ -305,7 +305,7 @@ Com base na técnica de priorização de requisitos foram capaz de classificar o
 https://docs.google.com/document/d/1Xos-q7mQ_vuDQqeCBLC7N5xdxEBLVYF27pExJdWrvOg/edit?usp=sharing
 
 
-| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     || :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: || 02/05/2025 |  0.1   | (#Q04) Documentação referente a aplicação da técnica de priorização Three Level Scale.| [@Luiz](https://github.com/luizfaria1989)   | |
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     || :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: || 02/05/2025 |  0.1   | (#Q04) Documentação referente a aplicação da técnica de priorização Three Level Scale.| [@Luiz](https://github.com/luizfaria1989)   | [@Ana Borges](https://github.com/anabborges) |
   
 
 
