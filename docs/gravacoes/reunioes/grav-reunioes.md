@@ -19,4 +19,4 @@
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 13/04/2025 |  0.1   | (#D03) Documenta reuniões. | [@Gabriela](https://github.com/gaubiela)   | [@Fabio](https://github.com/fabinsz) |
+| 04/04/2025 |  0.1   | (#D03) Documenta apresentações. | [@Gabriela](https://github.com/gaubiela)   | [@Mateus](https://github.com/MVConsorte)|
