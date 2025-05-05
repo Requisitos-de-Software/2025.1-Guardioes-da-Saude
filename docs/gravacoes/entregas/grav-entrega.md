@@ -8,7 +8,7 @@
 
 - Auto Inspeção
 
-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DOLH8buY038?si=GF7Jn6mCbsu6Cy3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Aplicação técnicas de priorização (03/04 - 04/04)
@@ -20,8 +20,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxz973-AUzU?si=9bs0St0zJhQPqrVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Parte 3
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lia0PyBMV7I?si=uAlVJ78vjWfofQWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bibMr6D-X1Y?si=yEuepBM-U7uJu9iW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Mesclagem de requisitos elicitados (03/04)
 
