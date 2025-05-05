@@ -133,4 +133,4 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 04/05/2025 |  0.1   | (#D04) Criação da página das listas de verificação.| [Ana Borges](https://github.com/anabborges)   |  |
+| 04/05/2025 |  0.1   | (#D04) Criação da página das listas de verificação.| [Ana Borges](https://github.com/anabborges)   | [Gabriela](https://github.com/gaubiela) |
