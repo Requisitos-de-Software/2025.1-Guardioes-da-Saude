@@ -93,6 +93,9 @@ nav:
           - Rich Picture:            'doc-guardioes-da-saude/planejamento/rich-picture.md'
           - Termo de Uso:            'doc-guardioes-da-saude/planejamento/termo-de-uso.md'
 
+      - Técnicas de Elicitação:
+        - Pesquisa/Questionário: 'doc-guardioes-da-saude/tecnicas-de-elicitacao/questionario/ElicitacaoQuestionario.md'
+        
 markdown_extensions:
   - pymdownx.details
   - tables
