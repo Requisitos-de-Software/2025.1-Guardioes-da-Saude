@@ -218,4 +218,4 @@ Segue a tabela de priorização dos requistos Técnicos.
 
 | Data       |Descrição                                 | Autor                                      | Revisor                                     
 | :--------: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 04/05/2025 | Técnica de elicitação QFD| [@Mateus](https://github.com/MVConsorte)   | []() |
+| 04/05/2025 | Técnica de elicitação QFD| [@Mateus](https://github.com/MVConsorte)   | [@Gaubiela](https://github.com/gaubiela) |
