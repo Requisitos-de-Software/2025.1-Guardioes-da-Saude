@@ -57,6 +57,7 @@ nav:
     - MoSCoW: 'priorizacao/MoSCow.md'
     - Three Level Scale : 'priorizacao/three-level-scale.md'
     - In-or-Out: 'priorizacao/In-or-Out.md'
+    - Quality Function Deployment: 'priorizacao/QFD.md'
 
   - Projeto Obsoleto:
       - Início: 'doc-guardioes-da-saude/index.md'
