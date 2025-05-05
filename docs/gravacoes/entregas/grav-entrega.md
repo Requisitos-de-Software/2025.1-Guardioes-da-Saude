@@ -2,6 +2,15 @@
 
 ### Apresentação Final (04/04)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oL-EL3EDAkg?si=dQy5XNGJm_PZMdjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Inspeções (04/05 - 05/05)
+
+- Auto Inspeção
+
+- 
+
+
 ### Aplicação técnicas de priorização (03/04 - 04/04)
 
 - Parte 1

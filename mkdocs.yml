@@ -53,8 +53,9 @@ nav:
     - Análise de Documentos: 'elicitacao/analise-de-documentos.md'
     - Pesquisa/Questionário: 'elicitacao/questionario.md'
     - Observação: 'elicitacao/observacao.md'
-    - Perfil de Usuário: 'elicitacao/perfil-de-usuario.md'
     - Análise de Interface: 'elicitacao/analise-de-interface.md'
+
+  - Perfil de Usuário: 'elicitacao/perfil-de-usuario.md'
 
   - Técnicas de Priorização:
     - MoSCoW: 'priorizacao/MoSCow.md'
