@@ -1,24 +1,16 @@
 # Lista de Termos de Uso
 
-Esta seção apresenta os principais documentos relacionados aos termos de uso, licenciamento, conduta e identidade visual do aplicativo Guardiões.
+Esta seção apresenta os principais documentos relacionados aos termos de uso e política de privacidade.
 
-## Licença
+## Termos e Condições de Uso do Aplicativo
 
-- [Apache License 2.0](https://github.com/ProEpiDesenvolvimento/guardioes-app/blob/development/LICENSE.md)
+- [Termos de Uso do Sistema](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)
 
-##  Termos e Condições de Uso do Aplicativo
+## Política de Privacidade
 
-- [Termos de Uso do APP](https://proepi.org.br/p889/)
+- [Política de Privacidade do Sistema](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html)
 
-##  Código de Conduta
-
-- [Código de Conduta do APP](https://github.com/ProEpiDesenvolvimento/guardioes-app/tree/development?tab=coc-ov-file)
-
-##  Identidade Visual
-
-- [Guardiões - Manual de Identidade Visual (PDF)](https://github.com/ProEpiDesenvolvimento/guardioes-app/blob/master/doc/Guardioes-ID-Visual.pdf)
-
-
-| Data       | Versão | Descrição                                 | Autor             | Revisor           |
-| :--------: | :----: | :----------:                              | :---------------: | :---------------: |
-| 13/04/2025 |  0.1   | Termos de Uso                    | [@Fábio Gabriel](https://github.com/fabinsz)| [@Ana Joyce](https://github.com/anajoyceamorim)|
+|    Data    | Versão |        Descrição        |                    Autor                     |                     Revisor                     |
+| :--------: | :----: | :---------------------: | :------------------------------------------: | :---------------------------------------------: |
+| 13/04/2025 |  0.1   |      Termos de Uso      | [@Fábio Gabriel](https://github.com/fabinsz) | [@Ana Joyce](https://github.com/anajoyceamorim) |
+| 04/05/2025 |  0.2   | Alteração do Aplicativo | [@Ana Borges](https://github.com/anabborges) |                                                 |
