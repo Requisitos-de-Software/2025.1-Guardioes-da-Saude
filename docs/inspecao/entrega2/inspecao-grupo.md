@@ -123,3 +123,7 @@ Para conduzir a inspeção do nosso próprio grupo
 | LQFD14  | No 'piso' (parte inferior) da Casa da Qualidade, contém os valores obtidos na linha do fator Importância, associado ao cálculo da soma dos produtos entre o Corpo de relações e os pesos dos consumidores. | Conforme |
 | LQFD15  | Há a representação em termos de porcentagem (%) do fator Importância. | Conforme |
 | LQFD16  | Contém à direita da Casa da Qualidade o Benchmark (análise comparativa com produtos concorrentes) preenchidos pelos stakeholders. | Conforme |
+
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
+| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
+| 04/05/2025 |  0.1   | (#D04) Criação da página das listas de verificação.| [Ana Borges](https://github.com/anabborges)   | [Gabriela](https://github.com/gaubiela) |
