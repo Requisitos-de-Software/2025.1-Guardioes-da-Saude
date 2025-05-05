@@ -60,6 +60,7 @@ nav:
     - MoSCoW: 'priorizacao/MoSCow.md'
     - Three Level Scale : 'priorizacao/three-level-scale.md'
     - In-or-Out: 'priorizacao/In-or-Out.md'
+    - Quality Function Deployment: 'priorizacao/QFD.md'
 
   - Verificação:
     - Segunda Entrega: 'verificacao/segunda-entrega.md'
