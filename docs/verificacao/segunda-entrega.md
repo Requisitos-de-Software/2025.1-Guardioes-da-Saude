@@ -25,7 +25,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 2 - Verificação Pesquisa/Questionário
 
-| Código | Diretriz | Autor         | Referência |
+| Código | Descrição | Autor         | Referência |
 |--------|----------|---------------|------------|
 | LQ1 | O questionário deve ser um formulário impresso ou on-line com perguntas estruturadas para coletar dados de pesquisa, análise ou avaliação.<br><br>“Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder, a fim de fornecer os dados necessários em uma pesquisa, análise ou avaliação.” | Gabriela Alves | ![Q1](../images/verificacao/Q1.png) BARBOSA, Simone D. J.; SANTANA DA SILVA, Bruno; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. *Interação Humano-Computador e Experiência do Usuário*. p. 149. |
 | LQ2 | As perguntas devem ser formuladas com cuidado para evitar ambiguidades, indicando claramente se admitem resposta única ou múltipla.<br><br>“Como o respondente não terá como tirar dúvidas sobre as perguntas no momento de responder ao questionário, a formulação da pergunta (e das respostas) deve ser ainda mais cuidadosa do que no caso de entrevistas, evitando ambiguidades e mal-entendidos.” | Gabriela Alves | ![Q2](../images/verificacao/Q2.png) BARBOSA, Simone D. J.; SANTANA DA SILVA, Bruno; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. *Interação Humano-Computador e Experiência do Usuário*. p. 149. |
@@ -37,7 +37,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 3 - Verificação Análise de Documentos
 
-| Código | Diretriz | Autor       | Referência |
+| Código | Descrição | Autor       | Referência |
 |--------|----------|-------------|------------|
 | LD1 | Os documentos analisados incluem especificações de requisitos, processos de negócio, manuais do usuário ou semelhantes?<br><br>“Document analysis entails examining any existing documentation for potential software requirements. The most useful documentation includes requirements specifications, business processes, lessons learned collections, and user manuals for existing or similar applications.” | Luiz Morais |![LD1](../images/verificacao/LD1.png) WIEGERS, K.; BEATTY, J. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. p. 128. |
 | LD2 | Os documentos analisados são documentos recentes?<br><br>“A risk with this technique is that the available documents might not be up to date. Requirements might have changed without the specifications being updated, or functionality might be documented that is not needed in a new system.” | Luiz Morais | ![LD2](../images/verificacao/LD2.png) WIEGERS, K.; BEATTY, J. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. p. 129. |
@@ -45,7 +45,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 4 - Verificação Observação
 
-| Código | Diretriz | Autor             | Referência |
+| Código | Descrição | Autor             | Referência |
 |--------|----------|-------------------|------------|
 | LO1 | Há um observador<br><br>“O observador imerge no ambiente de trabalho onde a solução será usada observando o trabalho cotidiano e tirando notas das tarefas nas quais as partes interessadas estão envolvidas.” | Ana Clara Borges | ![O1](../images/verificacao/O1.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport Livros e Multimídia, 2016. p. 159. |
 | LO2 | Há uma pessoa ou um grupo de pessoas sendo observada(s)<br><br>“... pela condução de uma avaliação no ambiente de trabalho das partes interessadas apropriadas.” | Ana Clara Borges | ![O2](../images/verificacao/O2.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de requisitos: software orientado ao negócio*. Rio de Janeiro: Brasport Livros e Multimídia, 2016. p. 159. |
@@ -57,14 +57,14 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 5 - Verificação Análise de Interface
 
-| Código   | Diretriz | Autor      | Referência |
+| Código   | Descrição | Autor      | Referência |
 |----------|----------|------------|------------|
 | LVAI01 | Foram identificados requisitos funcionais relacionados à troca de dados e serviços entre o sistema em desenvolvimento e sistemas externos com os quais ele se conecta.<br><br>“System interface analysis reveals functional requirements regarding the exchange of data and services between systems.” | Ana Joyce | ![AI1](../images/verificacao/AI1.png) WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. [S. l.]: Microsoft Press, 2013. p. 127. |
 | LVAI02 | Para cada sistema externo identificado, foram analisadas funcionalidades que possam gerar requisitos para o sistema em desenvolvimento?<br><br>“For each system that interfaces with yours, identify functionality in the other system that might lead to requirements for your system.” | Ana Joyce | ![AI2](../images/verificacao/AI2.png) WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. [S. l.]: Microsoft Press, 2013. p. 127. |
 
 ### Tabela 6 - Verificação Perfil de Usuário
 
-| Código | Diretriz | Autor        | Referência |
+| Código | Descrição | Autor        | Referência |
 |--------|----------|--------------|------------|
 | LP1 | Definir quem são os usuários (ex.: professores, estudantes, profissionais de saúde). | Fábio Gabriel | ![PU1](../images/verificacao/PU1.png) BARBOSA, Simone D. J.; SANTANA DA SILVA, Bruno; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. *Interação Humano-Computador e Experiência do Usuário*. p. 165. |
 | LP2 | Cargo/função (ex.: professor, gerente, estudante).<br>Nível de instrução (ex.: ensino médio, graduação, pós-graduação).<br>Faixa etária (ex.: 18-25, 26-40, 41-60). | Fábio Gabriel | ![PU2](../images/verificacao/PU2.png) BARBOSA, Simone D. J.; SANTANA DA SILVA, Bruno; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. *Interação Humano-Computador e Experiência do Usuário*. p. 166. |
@@ -77,14 +77,14 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 7 - Verificação Three Level Scale
 
-| Código | Diretriz | Autor        | Referência |
+| Código | Descrição | Autor        | Referência |
 |--------|----------|--------------|------------|
 | LT1 | A técnica de priorização deve ser feita com stakeholders concordando com as prioridades dos requisitos.<br><br>“To make the scale useful, the stakeholders must agree on what each level means in the scale they use.” | Luiz Morais | ![TL1](../images/verificacao/TL1.png) WIEGERS, K; BEATTY, J. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. p. 319. |
 | LT2 | A técnica deve separar os requisitos em quatro categorias de prioridade: alta, média, baixa, não fazer.<br><br>Figura: Requirements prioritization based on importance and urgency | Luiz Morais | ![TL2](../images/verificacao/TL2.png) WIEGERS, K; BEATTY, J. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. p. 319. |
 
 ### Tabela 8 - Verificação Moscow
 
-| Código | Diretriz | Autor | Referência |
+| Código | Descrição | Autor | Referência |
 |--------|----------|-------|------------|
 | LM1 | Os requisitos Must realmente são essenciais para o sucesso do projeto? | Davi Emanuel | ![LM1](../images/verificacao/LM1.png) *Software Requirements*, Third edition - Tópico MoSCow |
 | LM2 | Os requisitos Should são importantes, mas não impedem o sucesso do projeto caso não sejam incluídos? | Davi Emanuel | ![LM2](../images/verificacao/LM2.png) *Software Requirements*, Third edition - Tópico MoSCow |
@@ -100,7 +100,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 9 - Verificação In Or Out
 
-| Código | Diretriz | Autor        | Referência |
+| Código | Descrição | Autor        | Referência |
 |--------|----------|--------------|------------|
 | LI1 | Fazer decisão binária de todos os requisitos elicitados (in ou out) | Fábio Gabriel | ![IO1](../images/verificacao/IO1.png) *Software Requirements*, 3. ed. Redmond: Microsoft Press, 2013. p. 318 |
 | LI2 | Basear-se nos objetivos do negócio | Fábio Gabriel | ![IO2](../images/verificacao/IO2.png) *Software Requirements*, 3. ed. Redmond: Microsoft Press, 2013. p. 318 |
@@ -112,7 +112,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da S
 
 ### Tabela 10 - Verificação QFD
 
-| Código  | Diretriz                                                                 | Autor          | Referência                                                                                                      |
+| Código  | Descrição                                                                 | Autor          | Referência                                                                                                      |
 |---------|--------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
 | LQFD1   | É definido os Requisitos do consumidor à esquerda da Casa da Qualidade. | Mateus Villela | SHORT, Michael. Lecture 4: Quality Function Deployment (QFD) and House of Quality. MIT OpenCourseWare, 2011. Disponível em: YouTube. Acesso em: 02 maio 2025. (4 min 16s) |
 | LQFD2   | Há um ranking de importância para o consumidor, respectivamente aos requisitos do consumidor. | Mateus Villela | SHORT, Michael. Lecture 4: Quality Function Deployment (QFD) and House of Quality. MIT OpenCourseWare, 2011. Disponível em: YouTube. Acesso em: 02 maio 2025. (5 min 58s) |
