@@ -32,4 +32,4 @@
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 04/04/2025 |  0.1   | (#D03) Documenta apresentações. | [@Gabriela](https://github.com/gaubiela)   | [@Mateus](https://github.com/MVConsorte)|
-| 05/04/2025 |  0.2   | (#D03) Documenta inspeção Grupo + 1. | [@Gabriela](https://github.com/gaubiela)   | [@Mateus](https://github.com/MVConsorte)|
+| 05/04/2025 |  0.2   | (#D03) Documenta inspeção Grupo + 1. | [@Gabriela](https://github.com/gaubiela)   | [@Ana Borges](https://github.com/anabborges)|
