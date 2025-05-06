@@ -7,36 +7,36 @@ Após a aplicação do questionário aos participantes, foi realizada uma análi
 ## Objetivo 
 Identificar as necessidades dos usuários e elicitar os requisitos através da técnica de elicitação de questionário.
 
-??? summary "TABELA 1/ Requisitos funcionais"
+??? summary "TABELA 1/ Requisitos Funcionais"
  
 
     | Identificação |    Tipo          |              Descrição                                          |                         Status |               
     | :----:        | :--------:       | :---------------------------------:                             | :------------------------:                     
-    | #RF01         | Funcional        | Integrar com e-SUS/ ConecteSUS                                  | Não implementado      |                     
-    | #RF02         | Funcional        | Copartilhar de dados com profissionais  da Saúde                | Não implementado       |                   
-    | #RF03         | Funcional        | Registrar sintomas de Terceiros                                 | Não implementado      |                  
-    | #RF04         | Funcional        | Acompanhar de familiares                                        | Não implementado       |                    
-    | #RF05         | Funcional        | Suporte por voz                                                 | Não implementado         |                   
-    | #RF06         | Funcional        | Indicativos de Transmissões de Doenças                          | Não implementado          |                  
-    | #RF08         | Funcional        | Alerta de surtos Locais no mapa interativo                      | Não implementado          |                  
-    | #RF09         | Funcional        | Exibir locais de vacinação no mapa interativo                   | Não implementado          |               
-    | #RF10         | Funcional        | Exibir estabelecimentos de saúde próximos no mapa interativo    | Não implementado            |                
-    | #RF11         | Funcional        | Exibir casos por bairro                                         | Não implementado            |                
-    | #RF12         | Funcional        | Alerta de surtos Locais no mapa interativo                      | Não implementado            |                
+    | #RFQ01         | Funcional        | Integrar com e-SUS/ ConecteSUS                                  | Não implementado      |                     
+    | #RFQ02         | Funcional        | Copartilhar de dados com profissionais  da Saúde                | Não implementado       |                   
+    | #RFQ03         | Funcional        | Registrar sintomas de Terceiros                                 | Não implementado      |                  
+    | #RFQ04         | Funcional        | Acompanhar de familiares                                        | Não implementado       |                    
+    | #RFQ05         | Funcional        | Suporte por voz                                                 | Não implementado         |                   
+    | #RFQ06         | Funcional        | Indicativos de Transmissões de Doenças                          | Não implementado          |                  
+    | #RFQ08         | Funcional        | Alerta de surtos Locais no mapa interativo                      | Não implementado          |                  
+    | #RFQ09         | Funcional        | Exibir locais de vacinação no mapa interativo                   | Não implementado          |               
+    | #RFQ10         | Funcional        | Exibir estabelecimentos de saúde próximos no mapa interativo    | Não implementado            |                
+    | #RFQ11         | Funcional        | Exibir casos por bairro                                         | Não implementado            |                
+    | #RFQ12         | Funcional        | Alerta de surtos Locais no mapa interativo                      | Não implementado            |                
 
 
 
-??? summary "TABELA 1/Requistos não funcionais"
+??? summary "TABELA 1/Requistos não Funcionais"
 
 
     | Identificação  |    Tipo          |              Descrição                                               |                   Status                  |   
     | :----:         | :--------:       | :---------------------------------:                                  | :------------------------:                |    
-    | #RNF01         | Não Funcional    |Modo offline com cache e fila de envio                                | Não implementado                          | 
-    | #RNF02         | Não Funcional    |Feedback visual/sonoro em envios                                      | Não implementado                           | 
-    | #RNF03         | Não Funcional    |Desempenho e Responsividade: Todas as telas e interações devem reagir rapidamente ao toque do usuário, com transições e carregamentos fluídos, sem atrasos perceptíveis.                                                | Parcialmente atendido                          | 
-    | #RNF04         | Não Funcional    | Confiabilidade e Estabilidade: O aplicativo deve permanecer em funcionamento contínuo durante o uso normal, sem encerrar inesperadamente ou travar, mesmo sob carga moderada.                                                     | Não implementado                                       | 
-    | #RNF05         | Não Funcional    |Experiência do Usuário (UX) e Estética: A interface deve ser intuitiva e agradável, seguindo guidelines de design mobile (legibilidade, contraste e espaçamento), de modo que usuários novatos compreendam fluxos em ≤ 3 cliques.                                                     | Não implementadorecomendada                           | 
-    | #RNF07         | Não Funcional    | Segurança e Privacidade (LGPD): Todos os dados pessoais e de saúde devem ser criptografados em trânsito e em repouso. Deve haver consentimento explícito e opção de exclusão de dados pelo usuário.                                                   |Não implementado
+    | #RNFQ01         | Não Funcional    |Modo offline com cache e fila de envio                                | Não implementado                          | 
+    | #RNFQ02         | Não Funcional    |Feedback visual/sonoro em envios                                      | Não implementado                           | 
+    | #RNFQ03         | Não Funcional    |Desempenho e Responsividade: Todas as telas e interações devem reagir rapidamente ao toque do usuário, com transições e carregamentos fluídos, sem atrasos perceptíveis.                                                | Parcialmente atendido                          | 
+    | #RNFQ04         | Não Funcional    | Confiabilidade e Estabilidade: O aplicativo deve permanecer em funcionamento contínuo durante o uso normal, sem encerrar inesperadamente ou travar, mesmo sob carga moderada.                                                     | Não implementado                                       | 
+    | #RNFQ05         | Não Funcional    |Experiência do Usuário (UX) e Estética: A interface deve ser intuitiva e agradável, seguindo guidelines de design mobile (legibilidade, contraste e espaçamento), de modo que usuários novatos compreendam fluxos em ≤ 3 cliques.                                                     | Implementado                         | 
+    | #RNFQ07         | Não Funcional    | Segurança e Privacidade (LGPD): Todos os dados pessoais e de saúde devem ser criptografados em trânsito e em repouso. Deve haver consentimento explícito e opção de exclusão de dados pelo usuário.                                                   |Não implementado
 
 ## Bibliografia
 
