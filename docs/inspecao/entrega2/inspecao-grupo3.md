@@ -1,6 +1,7 @@
 
 ## Introdução
 
+Usamos a nossa lista de verificação para inspecionar o Grupo + 1.
 
 ### Tabela 1 - Verificação recomendada pelo professor
 
