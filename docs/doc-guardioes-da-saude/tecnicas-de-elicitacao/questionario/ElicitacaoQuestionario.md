@@ -54,4 +54,4 @@ Identificar as necessidades dos usuários e elicitar os requisitos através da t
 
 | Data       |Descrição                                 | Autor                                      | Revisor                                     
 | :--------: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 23/04/2025 | Técnica de elicitação MoSCow| [@Davi](https://github.com/daviRolvr)   | [@gabriela](https://github.com/gaubiela) |
+| 23/04/2025 | Análise questionário e elicitação de requistos | [@Davi](https://github.com/daviRolvr)   | [@gabriela](https://github.com/gaubiela) |
