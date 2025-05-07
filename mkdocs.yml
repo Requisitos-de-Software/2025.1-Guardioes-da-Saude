@@ -30,9 +30,13 @@ nav:
   - Gravações:
     - Entregas: 'gravacoes/entregas/grav-entrega.md'
     - Reuniões: 'gravacoes/reunioes/grav-reunioes.md'
+    - ATA 10-04-2025: 'gravacoes/reunioes/ata-dia-10-04-2025.md'
+    - ATA 15-04-2025: 'gravacoes/reunioes/ata-dia-15-04-2025.md'
+    - ATA 17-04-2025: 'gravacoes/reunioes/ata-dia-17-04-2025.md'
     - ATA 24-04-2025: 'gravacoes/reunioes/ata-dia-24-04-2025.md'
     - ATA 29-04-2025: 'gravacoes/reunioes/ata-dia-29-04-2025.md'
     - ATA 01-05-2025: 'gravacoes/reunioes/ata-dia-01-05-2025.md'
+    - ATA 06-05-2025: 'gravacoes/reunioes/ata-dia-06-05-2025.md'
     
   # - Pré-Rastreabilidade:
   #   - Rich-Picture: 'pre-rastreabilidade/rich-picture.md' 
@@ -78,9 +82,6 @@ nav:
           - Entregas: 'doc-guardioes-da-saude/gravacoes/entregas/entregas.md'
           - Reuniões:
               - Visão Geral: 'doc-guardioes-da-saude/gravacoes/reunioes/reunioes.md'
-              - ATA 10-04-2025: 'doc-guardioes-da-saude/gravacoes/reunioes/ata-dia-10-04-2025.md'
-              - ATA 15-04-2025: 'doc-guardioes-da-saude/gravacoes/reunioes/ata-dia-15-04-2025.md'
-              - ATA 17-04-2025: 'doc-guardioes-da-saude/gravacoes/reunioes/ata-dia-17-04-2025.md'
 
       - Planejamento:
           - Políticas do Repositório:
