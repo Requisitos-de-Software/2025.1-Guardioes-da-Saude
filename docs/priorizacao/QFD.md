@@ -1,4 +1,4 @@
-# Resultados da Priorização pelo QFD – DeepSeek
+# Priorização pela Quality Function Deployment (QFD)
 
 ## Introdução
 
@@ -12,40 +12,20 @@ O fator principal que caracteriza a eficácia da metodologia QFD, é sua capacid
 
 ## Detalhes do Projeto
 
-- **Título:** DeepSeek  
-- **Líder do Projeto:** Mateus Villela  
-- **Data:** 04/05/2025  
-- **Stakeholders**:
-    - Kamila Dutra 
-        - Residente em: Buenos Aires
-        - Curso/Profissão: Medicina 
-        - Idade: 20 anos
-        - Cliente/Consumidor (Customer)
-    - Pedro Bueno
-        - Residente em: Buenos Aires
-        - Curso/Profissão: Medicina 
-        - Idade: 20 anos
-        - Cliente/Consumidor (Customer)
-    - Janaina
-        - Residente em: Barra do Bugres
-        - Curso/Profissão: Arquitetura
-        - Idade: 20 anos
-        - Cliente/Consumidor (Customer)
-    - Fábio
-        - Residente em: Brasília-DF
-        - Curso/Profissão: Engenharia de Software
-        - Idade: 21 anos
-        - Especialista
-    - Luiz Guilherme
-        - Residente em: Brasília-DF
-        - Curso/Profissão: Engenharia de Software
-        - Idade: 20 anos
-        - Especialista
-    - Mateus Villela
-        - Residente em: Brasília-DF
-        - Curso/Profissão: Engenharia de Software
-        - Idade: 21 anos
-        - Especialista
+- **Título:** DeepSeek
+- **Líder do Projeto:** Mateus Villela
+- **Data:** 04/05/2025
+
+??? summary "Tabela 1. Stakeholders"
+    | Nome               | Localização         | Profissão                 | Idade | Tipo de Stakeholder |
+    |------------------|------------------|----------------------|------|-----------------|
+    | Kamila Dutra    | Buenos Aires     | Medicina            | 20   | Cliente        |
+    | Pedro Bueno     | Buenos Aires     | Medicina            | 20   | Cliente        |
+    | Janaina        | Barra do Bugres  | Arquitetura         | 20   | Cliente        |
+    | Fábio          | Brasília-DF      | Engenharia de Software | 21  | Especialista   |
+    | Luiz Guilherme | Brasília-DF      | Engenharia de Software | 20  | Especialista   |
+    | Mateus Villela | Brasília-DF      | Engenharia de Software | 21  | Especialista   |
+
 
 ## Metodologia de Priorização
 
@@ -130,13 +110,15 @@ Para o contexto atual, na aplicação do DeepSeek, foi utilizado como uma das t�
             - **Definição**: Representa o nível de prioridade de cada requisito do consumidor no QFD.
             - **Cálculo**:
                 - Cada requisito do consumidor recebe um **peso**, baseado em sua importância.
-                - Os pesos podem ser atribuídos **pelos consumidores ou stakeholders** através de uma escala (exemplo: 1 a 5, ou 1 a 10).
+                - Os pesos são atribuídos **stakeholders** através de uma escala (exemplo: 1 a 5, ou 1 a 10).
                 - A importância final é determinada por:
                     - **Soma** dos valores atribuídos pelos consumidores.
                     - **Conversão** para porcentagem, se necessário:
-                    ```math
-                    \text{Importância (\%)} = \frac{\text{Peso do Requisito}}{\text{Soma de Todos os Pesos}} \times 100
-                    ```
+                    <div class="math-container">
+                    $$
+                    \mathrm{Customer\ Importance\ (\%)} = \frac{\mathrm{Customer\ Importance\ Rating}}{\sum \mathrm{Customer\ Importance\ Ratings}} \times 100
+                    $$
+                    </div>
 
         2. Weighted Score (Pontuação Ponderada)
             - **Definição**: Representa o impacto dos requisitos técnicos em relação à importância dos requisitos do consumidor.
@@ -146,21 +128,29 @@ Para o contexto atual, na aplicação do DeepSeek, foi utilizado como uma das t�
                 - Cada símbolo pode ser convertido para um valor numérico (Exemplo: forte = 9, médio = 3, fraco = 1, nulo = 0).
                 - A **Weighted Score** de cada requisito técnico é calculada por:
                     - **Multiplicação da correlação** entre requisitos técnicos e importância do requisito do consumidor:
-                    ```math
-                    \text{Weighted Score} = \sum (\text{Importância do Consumidor} \times \text{Valor da Correlação})
-                    ```
+                    <div class="math-container">
+                        $$ 
+                        \text{Weighted Score} = \sum (\text{Customer Importance Rating} \times \text{Correlation Point}) 
+                        $$
+                    </div>
+
                     - Isso gera um **ranking dos requisitos técnicos**, indicando quais são mais relevantes para atender às demandas dos consumidores.
         3. Technical Importance Score (Pontuação de Importância Técnica)
         - **Definição**: Mede a relevância dos requisitos técnicos em relação ao produto final.
         - **Cálculo**:
             - **Soma dos Weighted Scores** de cada requisito técnico:
-                ```math
-                \text{Technical Importance Score} = \sum \text{Weighted Score de cada Requisito Técnico}
-                ```
+                <div class="math-container">
+                $$
+                \text{Technical Importance Score} = \sum \text{Weighted Score}
+                $$
+                </div>
             - **Conversão para porcentagem**, se necessário:
-                ```math
-                \text{Technical Importance (\%)} = \frac{\text{Technical Importance Score}}{\text{Soma de Todos os Technical Importance Scores}} \times 100
-                ```
+                <div class="math-container">
+                $$
+                \mathrm{Technical\ Importance\ (\%)} = \frac{\mathrm{Technical\ Importance\ Score}}{\sum \mathrm{Technical\ Importance\ Scores}} \times 100
+                $$
+                </div>
+
             - Isso ajuda a definir quais requisitos técnicos devem ser priorizados no desenvolvimento do produto.
 
 - **Execução das reuniões com os Stakeholders**
@@ -169,6 +159,9 @@ Para o contexto atual, na aplicação do DeepSeek, foi utilizado como uma das t�
         - Ambiente de Reunião: **Jitsi meet**
         - Data/Hora da Reunião: **21:30h 03/05/2025**
         - Objetivos: Determinação dos pesos vinculados à requistos do consumidor e estabelecimento do *Banchmark*.
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bibMr6D-X1Y?si=yEuepBM-U7uJu9iW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **Parte 2** - Stakeholders: Especialistas
         - Ambiente de Reunião: **Teams**
         - Data/Hora da Reunião: **16:40h 04/05/2025**
@@ -178,37 +171,44 @@ Para o contexto atual, na aplicação do DeepSeek, foi utilizado como uma das t�
                 - Matriz triangular de Correlação entre os requistos técnicos ("Telhado" da Casa da Qualidade).
                 - Corpo de relações (Matriz de relações entre requistos do consumidor e requistos técnicos) da Casa da Qualidade.
             - Resultado Final obtido no QFD
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mxz973-AUzU?si=9bs0St0zJhQPqrVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - **Resultado Obtido no QDF para o Deepseek**
 
 ## Resultado
 
 <figure style="text-align: center;">
-  <img src="../../images/qfd-house-of-quality.jpeg" alt="Fluxo do questionário DeepSeek" width="100%">
+  <a href="../../images/qfd-house-of-quality.jpeg" target="_blank">
+    <img src="../../images/qfd-house-of-quality.jpeg" alt="Fluxo do questionário DeepSeek" width="100%">
+  </a>
   <figcaption><strong>Figura 1.</strong> Casa da Qualidade - QFD - Deepseek.</figcaption>
   <div style="margin-top: 10px; font-size: 14px;">
     Autor: <a href="https://github.com/MVConsorte">@Mateus</a>
   </div>
 </figure>
 
-
-
 ## Conclusão
 Segue a tabela de priorização dos requistos Técnicos.
 
-<p align="center"><strong>Tabela 1. Priorização dos Requisitos Técnicos</strong></p>
+??? summary "Tabela 2. Priorização dos Requisitos Técnicos"
 
-| **Critério**    | Peso (%) | Rank de Prioridade |
-|:--------------:|:--------:|:-----------------:|
-| Busca na web   | 24%      | 2                 |
-| Deep Thinking  | 30%      | 1                 |
-| Upload de arquivos | 22%  | 3                 |
-| Sincronização de chats | 14% | 4              |
-| Busca incremental | 10% | 5                 |
+    | Critério               | Peso (%) | Rank de Prioridade |
+    |:----------------------:|:--------:|:------------------:|
+    | Deep Thinking         | 30%      | 1                  |
+    | Busca na web         | 24%      | 2                  |
+    | Upload de arquivos   | 22%      | 3                  |
+    | Sincronização de chats | 14%      | 4                  |
+    | Busca incremental    | 10%      | 5                  |
 
-<p align="center">Fonte: QFD - Google Sheets - Mateus Villela</p>
+<p align="center">Fonte: QFD - Google Sheets</p>
+<div align="center";style="margin-top: 10px; font-size: 14px;">
+    Autor: <a href="https://github.com/MVConsorte">@Mateus</a>
+</div>
 
-> ## Bibiligrafia
-> 
+
+## Bibiliografia
+
 >1. **ERDIL, Nadiye Ozlem; ARANI, Omid M.** Quality function deployment: more than a design tool. *International Journal of Quality and Service Sciences*, 2018. Disponível em: [https://doi.org/10.1108/IJQSS-02-2018-0008](https://doi.org/10.1108/IJQSS-02-2018-0008). Acesso em: **01 maio 2025**.
 > 
 > 2. **AKAO, Yoji.** QFD: Past, present, and future. In: *International symposium on QFD*. Linköping, Sweden: International council of QFD, 1997. p. 1-12.
@@ -219,3 +219,4 @@ Segue a tabela de priorização dos requistos Técnicos.
 | Data       |Descrição                                 | Autor                                      | Revisor                                     
 | :--------: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 04/05/2025 | Técnica de elicitação QFD| [@Mateus](https://github.com/MVConsorte)   | [@Gaubiela](https://github.com/gaubiela) |
+| 08/05/2025 | Reinamento de documentação baseado na Inspeção realizada pelo grupo 1 e no feedback do professor André Barros| [@Mateus](https://github.com/MVConsorte)   | []() |
