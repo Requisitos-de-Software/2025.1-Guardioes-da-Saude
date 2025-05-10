@@ -38,6 +38,8 @@ A metodologia deste projeto baseia-se na abordagem de design baseado em cenário
 
 ## Gabriela
 
+
+
 ## Luiz
 
 ## Bibliografia
@@ -49,4 +51,5 @@ Interação Humano-Computador e Experiência do usuário.
 
  Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 09/05/2025 |  1.0   | (#CO1) Adição de introduçaõ e metodologia.| [@Ana Joyce](https://github.com/anajoyceamorim)   | [@Nome](https://github.com/arroba) |
+| 09/05/2025 |  1.0   | (#CO1) Adição de introduçaõ e metodologia.| [@Ana Joyce](https://github.com/anajoyceamorim)   | [@Gabriela](https://github.com/gaubiela) |
+| 10/05/2025 |  1.1   | (#CO1) Incrementa conteúdo sobre cenários.| [@Gabriela](https://github.com/gaubiela)   | - |
