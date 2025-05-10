@@ -25,7 +25,45 @@ Adotaremos um padrão uniforme para cada entrada do léxico, composto pelos segu
 
 Esse esquema garante que todo termo usado no DeepSeek seja descrito de forma consistente, permitindo fácil reconhecimento e entendimento por todos os membros da equipe.
 
+## Léxicos
 
+### Léxico para UC01 (Upload de Documento)
+
+| ID        | Noção               | Impacto                                                       | Classificação | Dicionário                      | Rastreamento |
+| --------- | ------------------- | ------------------------------------------------------------- | ------------- | ------------------------------- | ------------ |
+| L-UC01-02 | Upload de Documento | Enviar PDF ao DeepSeek para conversão em texto                | Verbo         | Subir arquivo, Enviar documento | UC01         |
+| L-UC01-03 | PDF                 | Arquivo no formato Portable Document Format                   | Objeto        | Documento, Arquivo PDF          | UC01         |
+| L-UC01-05 | Spinner             | Indicador visual de carregamento durante o processamento      | Objeto        | Indicador de progresso          | UC01         |
+| L-UC01-06 | Texto Extraído      | Conteúdo convertido do PDF em texto                           | Objeto        | Conteúdo processado             | UC01         |
+
+<font size="3"><p style="text-align: center">Autor: Gabriela<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
+---
+
+### Léxico para UC02 (Consulta Atualizada via Search na Web)
+
+| ID        | Noção     | Impacto                                                        | Classificação | Dicionário                 | Rastreamento |
+| --------- | --------- | -------------------------------------------------------------- | ------------- | -------------------------- | ------------ |
+| L-UC02-01 | Search    | Módulo que realiza consultas na web sem sair da plataforma     | Sujeito       | Busca web, Pesquisa online | UC02         |
+| L-UC02-02 | Query     | Texto de busca inserido pelo usuário                           | Objeto        | Termo de pesquisa, String  | UC02         |
+| L-UC02-03 | Copy      | Ação de copiar o trecho retornado para a área de transferência | Verbo         | Copiar, Duplicar           | UC02         |
+| L-UC02-04 | Node.js   | Ambiente de execução JavaScript                                | Objeto        | Plataforma Node            | UC02         |
+| L-UC02-05 | Resultado | Trecho retornado pela consulta, contendo versão e data         | Objeto        | Retorno, Resposta          | UC02         |
+
+<font size="3"><p style="text-align: center">Autor: Gabriela<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
+
+---
+
+### Léxico para UC03 (Iteração de Resposta com Feedback)
+
+| ID        | Noção      | Impacto                                                                      | Classificação | Dicionário            | Rastreamento |
+| --------- | ---------- | ---------------------------------------------------------------------------- | ------------- | --------------------- | ------------ |
+| L-UC03-02 | Like       | Avaliação positiva que sinaliza satisfação com a resposta                    | Verbo         | Curtir, Aprovar       | UC03         |
+| L-UC03-03 | Dislike    | Avaliação negativa que aciona feedback para nova geração de conteúdo         | Verbo         | Reprovar, Não curtir  | UC03         |
+| L-UC03-04 | Regenerate | Comando que solicita ao sistema gerar novamente o texto com base no feedback | Verbo         | Regenerar, Refazer    | UC03         |
+| L-UC03-05 | Copy       | Ação de copiar a resposta final para a área de transferência                 | Verbo         | Copiar, Duplicar      | UC03         |
+| L-UC03-06 | Feedback   | Comentário do usuário que orienta ajustes na geração de texto                | Objeto        | Avaliação, Comentário | UC03         |
+
+<font size="3"><p style="text-align: center">Autor: Gabriela<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
 
 ## Bibliografia
 
@@ -37,3 +75,4 @@ Esse esquema garante que todo termo usado no DeepSeek seja descrito de forma con
  Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 10/05/2025 |  1.0   | (#LX01) Definições iniciais. | [@Gabriela](https://github.com/gaubiela)   | -- |
+| 10/05/2025 |  1.1   | (#LX01) Adição de conteúdo desenvolvido.  | [@Gabriela](https://github.com/gaubiela)   | -- |
