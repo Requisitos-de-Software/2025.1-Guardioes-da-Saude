@@ -38,7 +38,108 @@ A metodologia deste projeto baseia-se na abordagem de design baseado em cenário
 
 ## Gabriela
 
+## Cenário XX: Upload de Documento (#UC01)
 
+**Atores:**
+Júlia, 27 anos, pesquisadora em Ciência da Computação, formação superior, alta proficiência tecnológica, usa o DeepSeek diariamente para processamento avançado de documentos.
+
+**Ambiente (Contexto):**
+Em seu home office, com conexão estável de fibra óptica e deadline apertado para submeter um artigo, Júlia recebe um PDF que precisa converter em texto editável e interpretar conteúdo de forma rápida.
+
+**Objetivos:**
+
+* Extrair todo o texto.
+* Garantir que conteúdo e insights sejam consistentes e preservados.
+
+**Planejamento:**
+Júlia decide usar o fluxo de upload do DeepSeek em vez de ferramentas manuais, pois estima maior agilidade e menor chance de erro.
+
+**Ações:**
+
+1. Abre o DeepSeek e seleciona “Upload de Documento”.
+2. Escolhe o arquivo PDF do artigo.
+3. Observa barra de progresso até 100 %.
+5. Revisita arquivo para verificar consistência do conteúdo e informações fornecidas através do deepseek.
+
+**Eventos:**
+
+* Após o upload, um spinner que representa o carregamento é apresentado, bem como mensagens que dizem em que etapa do processamento o deepseek está.
+
+**Avaliação:**
+
+* Júlia percorre o texto extraído, conferindo símbolos e formatação; para cada inconsistência.
+* Compara mentalmente o conteúdo gerado com o PDF original, e valida se todos os insights obtidos durante a conversa foram consistentes.
+
+---
+
+## Cenário XX: Consulta Atualizada via Search na Web (#UC02)
+
+**Atores:**
+Pedro, 31 anos, engenheiro de software em startup, formação em TI, utiliza DeepSeek várias vezes ao dia para se manter atualizado sobre tecnologias emergentes.
+
+**Ambiente (Contexto):**
+Em seu escritório, precisa saber imediatamente qual é a versão mais recente do Node.js em 10 de maio de 2025 para configurar o ambiente de build do time.
+
+**Objetivos:**
+
+* Obter a versão mais recente do Node.js no dia atual disponibilizada no site oficial.
+* Copiar a informação para documentá-la no repositório interno de conhecimento.
+
+**Planejamento:**
+Pedro pretende usar a aba “Search” do DeepSeek para fazer uma busca na web, evitando acessar múltiplas abas no navegador. Caso o resultado inicial não cite a data exata, ele vai refinar a pesquisa em busca da versão mais atual no dia atual.
+
+**Ações:**
+
+1. Ativar a opção **Search** no DeepSeek.
+2. Digita “Qual é a versão mais recente do Node.js em 10 de maio de 2025?” e pressiona Enter.
+3. Aguarda < 2 s pelo resultado, que inclui número da versão e data de lançamento.
+4. Clica em “Copy” ao lado do trecho “Node.js v20.7.0 – lançado em 08/05/2025”.
+5. Cola a informação no README do repositório.
+
+**Eventos:**
+
+* Se a resposta demorar > 3 s, surge aviso de erro com opção de recarregamento.
+* Cada clique em “Copy” exibe brevemente a mensagem “Copiado!” no centro superior da aba.
+
+**Avaliação:**
+
+* Pedro verifica se o número da versão e a data estão corretos comparando com o site nodejs.org.
+* Confirma que o tempo total de busca foi inferior a 3 s, atendendo ao seu critério de agilidade.
+* Se algum dado estiver divergente, refina a pesquisa para “Node.js versão estável maio 2025” e repete o fluxo.
+
+---
+
+## Cenário XX: Iteração de Resposta com Opções Disponíveis Para Resposta (like, dislike, regenerate, copy) (#UC03)
+
+**Atores:**
+Mariana, 25 anos, aluna de pós em Bioinformática, alta proficiência, usa o app no celular enquanto toma café entre aulas para refinar textos.
+
+**Ambiente (Contexto):**
+Num café da universidade, conexão móvel instável, ela quer melhorar o parágrafo sobre “Identificação de variantes genéticas associadas a doenças complexas” feito por ela.
+
+**Objetivos:**
+
+* Obter um parágrafo claro e conciso sobre o conteúdo.
+* Copiar o texto final para seu documento de anotações.
+
+**Planejamento:**
+Decide iterar usando “Dislike + Regenerate” até que o resultado atenda ao estilo desejado, marcando “Like” na versão final.
+
+**Ações:**
+
+1. Lê o primeiro parágrafo gerado.
+2. Se insatisfeita, clica em “Dislike” e fornece feedback sobre o descontentamento.
+3. Toca em “Regenerate” e aguarda nova versão (\~ 1 s).
+4. Repete “Dislike + Regenerate” uma vez mais se necessário.
+5. Na versão satisfatória, clica em “Like” e depois em “Copy”.
+
+**Eventos:**
+
+* Caso a regeneração demore > 3 s, surge botão “Cancelar” para reiniciar o processo.
+* Feedback “Like/Dislike” envia dados sobre o conteúdo fornecido para o DeepSeek.
+
+**Avaliação:**
+Mariana compara mentalmente cada iteração com seu padrão de clareza; quando atingir fluxo e precisão, encerra as regenerações.
 
 ## Luiz
 
@@ -52,4 +153,4 @@ Interação Humano-Computador e Experiência do usuário.
  Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 09/05/2025 |  1.0   | (#CO1) Adição de introduçaõ e metodologia.| [@Ana Joyce](https://github.com/anajoyceamorim)   | [@Gabriela](https://github.com/gaubiela) |
-| 10/05/2025 |  1.1   | (#CO1) Incrementa conteúdo sobre cenários.| [@Gabriela](https://github.com/gaubiela)   | - |
+| 10/05/2025 |  1.1   | (#CO1) Incrementa parte da documentação sobre cenários.| [@Gabriela](https://github.com/gaubiela)   | - |
