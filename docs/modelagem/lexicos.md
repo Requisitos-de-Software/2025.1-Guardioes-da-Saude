@@ -36,7 +36,9 @@ Esse esquema garante que todo termo usado no DeepSeek seja descrito de forma con
 | L-UC01-05 | Spinner             | Indicador visual de carregamento durante o processamento      | Objeto        | Indicador de progresso          | UC01         |
 | L-UC01-06 | Texto Extraído      | Conteúdo convertido do PDF em texto                           | Objeto        | Conteúdo processado             | UC01         |
 
-<font size="3"><p style="text-align: center">Autor: Gabriela<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
+<div align="center">
+    Autor: <a href="https://github.com/gaubiela">@Gabriela</a>
+</div>
 ---
 
 ### Léxico para UC02 (Consulta Atualizada via Search na Web)
@@ -49,8 +51,9 @@ Esse esquema garante que todo termo usado no DeepSeek seja descrito de forma con
 | L-UC02-04 | Node.js   | Ambiente de execução JavaScript                                | Objeto        | Plataforma Node            | UC02         |
 | L-UC02-05 | Resultado | Trecho retornado pela consulta, contendo versão e data         | Objeto        | Retorno, Resposta          | UC02         |
 
-<font size="3"><p style="text-align: center">Autor: Gabriela<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
-
+<div align="center">
+    Autor: <a href="https://github.com/gaubiela">@Gabriela</a>
+</div>
 ---
 
 ### Léxico para UC03 (Iteração de Resposta com Feedback)
@@ -63,7 +66,10 @@ Esse esquema garante que todo termo usado no DeepSeek seja descrito de forma con
 | L-UC03-05 | Copy       | Ação de copiar a resposta final para a área de transferência                 | Verbo         | Copiar, Duplicar      | UC03         |
 | L-UC03-06 | Feedback   | Comentário do usuário que orienta ajustes na geração de texto                | Objeto        | Avaliação, Comentário | UC03         |
 
-<font size="3"><p style="text-align: center">Autor: Gabriela<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
+<div align="center">
+    Autor: <a href="https://github.com/gaubiela">@Gabriela</a>
+</div>
+---
 
 ## Bibliografia
 
