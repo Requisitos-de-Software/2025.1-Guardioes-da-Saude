@@ -18,7 +18,11 @@ A metodologia deste projeto baseia-se na abordagem de design baseado em cenário
 
 ## Gabriela
 
-## Luiz
+## Luiz - Uso da funcionalidade Deep Thinking no chat
+
+* Ator: Gauss (estudante universitário)
+
+Gauss, um estudante universitário de engenharia, estava em seu quarto estudando para a prova de cálculo que tinha na próxima semana, contudo encontrou um problema em um dos exercícios, uma integral diferente que não conseguia resolver de jeito nenhum. Foi então que ele se lembrou que na nova atualização do aplicativo de IA DeepSeek, existia uma funcionalidade de pensamento profundo, cujos desenvolvedores haviam criado para que a IA resolvesse problemas complexos, como os de matemática. Nisso, Gauss resolveu utilizá-la. Ele abriu o aplicativo em seu smartphone, ativou a função "Deep Thinking" no chat e digitou a integral que estava com dificuldades, após aguardar alguns segundos, pois a IA estava analisando a questão e consultando em seus bancos de dados, o DeepSeek retornou em seu chat com Gauss a explicação passo-a-passo de como resolver aquele tipo de problema, Gauss descobriu que aquela integral que estava tentando calcular era um tipo de integral não-elementar, que não possuía uma primitiva e para resolvê-la era necessário o uso de outras técnicas do cálculo. Ao terminar de ler a resolução do DeepSeek, Gauss retornou para a resolução de seus exercícios e suas anotações, agora com sua dúvida respondida.
 
 ## Bibliografia
 
@@ -30,3 +34,4 @@ Interação Humano-Computador e Experiência do usuário.
  Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 09/05/2025 |  1.0   | (#CO1) Adição de introduçaõ e metodologia.| [@Ana Joyce](https://github.com/anajoyceamorim)   | [@Nome](https://github.com/arroba) |
+| 10/05/2025 |  1.1   | (#C03) Adição do cenário de Deep Thinking | [@Luiz](htttps://github.com/luizfaria1989) | [@Nome]() |
